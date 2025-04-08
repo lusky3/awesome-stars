@@ -210,7 +210,7 @@
 - [impredicative/gec](https://github.com/impredicative/gec) - CLI utility for github+git+gocryptfs in Bash for Linux
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
-- [SimpleHomelab/docker-traefik](https://github.com/SimpleHomelab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
+- [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [elmerfds/OrganizrInstaller](https://github.com/elmerfds/OrganizrInstaller) - Automated install script for Organizr (https://github.com/causefx/Organizr) for Ubuntu/Debian/Raspbian/CentOS and Windows
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
