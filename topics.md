@@ -306,7 +306,7 @@
 
 ## others 
 
-- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab Repositories
+- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [Kometa-Team/Quickstart](https://github.com/Kometa-Team/Quickstart) - YAML Generator for use with Kometa
 - [undernightcore/dockerizalo](https://github.com/undernightcore/dockerizalo) - The simplest deployment platform made for self-hosters.
 - [bullmoose20/Plex-Stuff](https://github.com/bullmoose20/Plex-Stuff) - Random plex related stuff
