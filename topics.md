@@ -70,6 +70,7 @@
 - [terminal](#terminal)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [vim](#vim)
 - [vpn](#vpn)
 - [vuejs](#vuejs)
@@ -540,6 +541,10 @@
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [elmerfds/OrganizrInstaller](https://github.com/elmerfds/OrganizrInstaller) - Automated install script for Organizr (https://github.com/causefx/Organizr) for Ubuntu/Debian/Raspbian/CentOS and Windows
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
+
+## ui 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## vim 
 
