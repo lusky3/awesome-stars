@@ -234,7 +234,7 @@
 
 ## Svelte 
 
-- [ofkm/arcane](https://github.com/ofkm/arcane) - Simple and Elegant Docker Management UI written in Typescript and SvelteKit
+- [ofkm/arcane](https://github.com/ofkm/arcane) - Modern Docker Management, Designed for Everyone
 - [Tormak9970/Steam-Art-Manager](https://github.com/Tormak9970/Steam-Art-Manager) - Simple and elegant Steam library customization
 
 ## Swift 
