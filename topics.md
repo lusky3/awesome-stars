@@ -100,6 +100,7 @@
 
 ## automation 
 
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Cloudflare Tunnel & Zero Trust manager for Docker/non-docker services
 - [harshhome/diun-boost](https://github.com/harshhome/diun-boost) - diun-boost automatically generates and updates your DIUN configuration with smart version matching, keeping your container monitoring fast, accurate, and fully automated.
 - [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping y
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
@@ -173,6 +174,7 @@
 
 ## docker 
 
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Cloudflare Tunnel & Zero Trust manager for Docker/non-docker services
 - [ofkm/arcane](https://github.com/ofkm/arcane) - Modern Docker Management, Designed for Everyone
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [harshhome/diun-boost](https://github.com/harshhome/diun-boost) - diun-boost automatically generates and updates your DIUN configuration with smart version matching, keeping your container monitoring fast, accurate, and fully automated.
@@ -422,6 +424,7 @@
 
 ## python 
 
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Cloudflare Tunnel & Zero Trust manager for Docker/non-docker services
 - [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [harshhome/diun-boost](https://github.com/harshhome/diun-boost) - diun-boost automatically generates and updates your DIUN configuration with smart version matching, keeping your container monitoring fast, accurate, and fully automated.
 - [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
