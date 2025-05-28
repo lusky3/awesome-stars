@@ -21,6 +21,7 @@
 - [discord](#discord)
 - [django](#django)
 - [docker](#docker)
+- [flask](#flask)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -201,6 +202,10 @@
 - [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [tlaanemaa/backup-docker](https://github.com/tlaanemaa/backup-docker) - A simple command line tool to backup and restore docker containers along with their volumes
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
+
+## flask 
+
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Cloudflare Tunnel & Zero Trust manager for Docker/non-docker services
 
 ## git 
 
@@ -465,6 +470,7 @@
 
 ## security 
 
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Cloudflare Tunnel & Zero Trust manager for Docker/non-docker services
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
