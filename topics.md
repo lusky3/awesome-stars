@@ -354,6 +354,9 @@
 
 ## others 
 
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
+- [RA341/dockman](https://github.com/RA341/dockman) - Yet another compose manager for homelabs
+- [sottey/dashuni](https://github.com/sottey/dashuni) - 
 - [Shrikshel/server-tools](https://github.com/Shrikshel/server-tools) - 🛠️ A modern CLI to manage headless Ubuntu servers with ease — updates, installs, system info, Docker, rclone, restic & more. Powered by Bashly.
 - [sadoyan/aralez](https://github.com/sadoyan/aralez) - Aralez (Արալեզ), Reverse proxy and service mesh built on top of Cloudflare's Pingora
 - [Reaper0x1/bitwarden-portal](https://github.com/Reaper0x1/bitwarden-portal) - Automate backup and restore between Bitwarden and/or Vaultwarden vault.
