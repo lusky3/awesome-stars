@@ -61,7 +61,7 @@
 
 ## Go 
 
-- [sottey/dashuni](https://github.com/sottey/dashuni) - 
+- [sottey/dashuni](https://github.com/sottey/dashuni) - You keep one single source of truth about your servers, services, and bookmarks, and Dashuni generates the correct config for your favorite dashboard.
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com
@@ -218,7 +218,7 @@
 
 ## Shell 
 
-- [Shrikshel/server-tools](https://github.com/Shrikshel/server-tools) - 🛠️ A modern CLI to manage headless Ubuntu servers with ease — updates, installs, system info, Docker, rclone, restic & more. Powered by Bashly.
+- [Shrikshel/server-tools](https://github.com/Shrikshel/server-tools) - 🛠️ A modern, modular CLI to manage headless Ubuntu servers with ease — system updates, package installs, Docker, rclone, restic, network tools, disk stats, SSH, tmux, Telegram alerts & more. Built wit
 - [Reaper0x1/bitwarden-portal](https://github.com/Reaper0x1/bitwarden-portal) - Automate backup and restore between Bitwarden and/or Vaultwarden vault.
 - [deajan/osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
