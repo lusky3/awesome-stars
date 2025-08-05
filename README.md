@@ -208,7 +208,7 @@
 
 ## Ruby 
 
-- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 
 ## Rust 
 
