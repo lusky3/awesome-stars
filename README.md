@@ -214,6 +214,7 @@
 
 ## Rust 
 
+- [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
 - [sadoyan/aralez](https://github.com/sadoyan/aralez) - Aralez (Արալեզ), Reverse proxy and service mesh built on top of Cloudflare's Pingora
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
