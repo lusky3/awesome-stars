@@ -186,6 +186,7 @@
 
 ## docker 
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
 - [RA341/dockman](https://github.com/RA341/dockman) - Yet another docker compose manager for homelabs
 - [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash) - An open-source user interface designed to manage your server/homelab applications and services.
@@ -305,6 +306,7 @@
 
 ## linux 
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
 - [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
@@ -521,6 +523,7 @@
 
 ## rust 
 
+- [cartesiancs/vessel](https://github.com/cartesiancs/vessel) - Orchestrate physical devices with a single platform 🦾
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
@@ -618,6 +621,7 @@
 
 ## typescript 
 
+- [cartesiancs/vessel](https://github.com/cartesiancs/vessel) - Orchestrate physical devices with a single platform 🦾
 - [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash) - An open-source user interface designed to manage your server/homelab applications and services.
 - [jamcalli/Pulsarr](https://github.com/jamcalli/Pulsarr) - Pulsarr: Real-time Plex watchlist monitoring and content acquisition tool. Seamlessly sync Plex watchlists with Sonarr and Radarr, featuring intelligent predicated content routing, multi-instance supp
 - [ofkm/arcane](https://github.com/ofkm/arcane) - Modern Docker Management, Designed for Everyone
@@ -667,6 +671,7 @@
 
 ## windows 
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
