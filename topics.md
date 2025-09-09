@@ -379,6 +379,8 @@
 
 ## others 
 
+- [agregarr/agregarr](https://github.com/agregarr/agregarr) - Home/Collection manager for Plex
+- [Receipt-Wrangler/receipt-wrangler-api](https://github.com/Receipt-Wrangler/receipt-wrangler-api) - Server for Receipt Wrangler
 - [trailofbits/buttercup](https://github.com/trailofbits/buttercup) - Buttercup finds and patches software vulnerabilities
 - [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
 - [varthe/Redirecter](https://github.com/varthe/Redirecter) - Filter and redirect media requests based on requester, keywords, age ratings, and more. Supports routing to multiple instances simultaneously.
