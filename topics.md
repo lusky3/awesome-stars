@@ -36,6 +36,7 @@
 - [java](#java)
 - [javafx](#javafx)
 - [javascript](#javascript)
+- [kali-linux](#kali-linux)
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
 - [linux](#linux)
@@ -293,6 +294,10 @@
 
 - [Darkseal/CORSflare](https://github.com/Darkseal/CORSflare) - A lightweight JavaScript CORS Reverse Proxy designed to run in a Cloudflare Worker.
 - [d2phap/fluent-reveal-effect](https://github.com/d2phap/fluent-reveal-effect) - Fluent Reveal Effect JavaScript library for web
+
+## kali-linux 
+
+- [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 
 ## kubernetes 
 
