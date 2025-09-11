@@ -41,7 +41,7 @@
 ## C# # 
 
 - [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
-- [Corsinvest/cv4pve-admin](https://github.com/Corsinvest/cv4pve-admin) - Corsinvest for Proxmox VE Web Admin Clusters -  vCenter but for Proxmoxm VE
+- [Corsinvest/cv4pve-admin](https://github.com/Corsinvest/cv4pve-admin) - Corsinvest for Proxmox VE Web Admin Clusters -  vCenter but for Proxmox VE
 - [ShokoAnime/ShokoServer](https://github.com/ShokoAnime/ShokoServer) - Repository for Shoko Server.
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [akshinmustafayev/EasyJob](https://github.com/akshinmustafayev/EasyJob) - :hammer: EasyJob - keep and execute your PowerShell and BAT scripts from one interface
