@@ -666,7 +666,7 @@
 ## web 
 
 - [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
-- [Corsinvest/cv4pve-admin](https://github.com/Corsinvest/cv4pve-admin) - Corsinvest for Proxmox VE Web Admin Clusters -  vCenter but for Proxmoxm VE
+- [Corsinvest/cv4pve-admin](https://github.com/Corsinvest/cv4pve-admin) - Corsinvest for Proxmox VE Web Admin Clusters -  vCenter but for Proxmox VE
 
 ## webapp 
 
