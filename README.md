@@ -266,7 +266,6 @@
 
 - [lucasdillmann/nginx-ignition](https://github.com/lucasdillmann/nginx-ignition) - An user interface for the nginx web server, aimed at developers and enthusiasts that don't want to manage configuration files manually
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Home/Collection manager for Plex
-- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [cartesiancs/vessel](https://github.com/cartesiancs/vessel) - Orchestrate physical devices with a single platform 🦾
 - [varthe/Redirecter](https://github.com/varthe/Redirecter) - Filter and redirect media requests based on requester, keywords, age ratings, and more. Supports routing to multiple instances simultaneously.
 - [RA341/dockman](https://github.com/RA341/dockman) - Yet another docker compose manager for homelabs
@@ -287,6 +286,7 @@
 
 ## Vue 
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 
 
