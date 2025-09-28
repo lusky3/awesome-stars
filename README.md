@@ -58,7 +58,6 @@
 
 ## CSS 
 
-- [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Simple dashboard for quick access to Docker container web interfaces across multiple hosts
 - [kolappannathan/acrylic-css](https://github.com/kolappannathan/acrylic-css) - A CSS based style for using acrylic effect in websites. This is inspired from Microsoft's Fluent Design Language.
 
 ## Go 
@@ -96,6 +95,7 @@
 
 ## JavaScript 
 
+- [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Easily access your Docker container web interfaces and keep them up to date — across all your hosts.
 - [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
 - [bodyast/logManager](https://github.com/bodyast/logManager) - Real-time log viewer for remote servers via SSH. Add servers, define log paths, and stream logs in your browser.
 - [robinkarlberg/transfer.zip-web](https://github.com/robinkarlberg/transfer.zip-web) - A self-hostable complete file-sharing solution that focuses on reliability, security and ease of use.
