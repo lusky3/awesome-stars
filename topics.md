@@ -195,7 +195,7 @@
 
 ## docker 
 
-- [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Simple dashboard for quick access to Docker container web interfaces across multiple hosts
+- [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Easily access your Docker container web interfaces and keep them up to date — across all your hosts.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
 - [RA341/dockman](https://github.com/RA341/dockman) - Yet another docker compose manager for homelabs
