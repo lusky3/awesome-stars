@@ -63,6 +63,7 @@
 
 ## Go 
 
+- [lucasdillmann/nginx-ignition](https://github.com/lucasdillmann/nginx-ignition) - An user interface for the nginx web server, aimed at developers and enthusiasts that don't want to manage configuration files manually
 - [Receipt-Wrangler/receipt-wrangler-api](https://github.com/Receipt-Wrangler/receipt-wrangler-api) - Server for Receipt Wrangler
 - [sottey/dashuni](https://github.com/sottey/dashuni) - You keep one single source of truth about your servers, services, and bookmarks, and Dashuni generates the correct config for your favorite dashboard.
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
@@ -266,7 +267,6 @@
 
 ## TypeScript 
 
-- [lucasdillmann/nginx-ignition](https://github.com/lucasdillmann/nginx-ignition) - An user interface for the nginx web server, aimed at developers and enthusiasts that don't want to manage configuration files manually
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Agregarr is a Plex Collections manager that keeps your Home and Recommended fresh by frequently updating it with collections from various sources
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [cartesiancs/vessel](https://github.com/cartesiancs/vessel) - Orchestrate physical devices with a single platform 🦾
