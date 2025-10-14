@@ -58,7 +58,6 @@
 
 ## CSS 
 
-- [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Easily access your Docker container web interfaces and keep them up to date — across all your hosts.
 - [kolappannathan/acrylic-css](https://github.com/kolappannathan/acrylic-css) - A CSS based style for using acrylic effect in websites. This is inspired from Microsoft's Fluent Design Language.
 
 ## Go 
@@ -97,6 +96,7 @@
 
 ## JavaScript 
 
+- [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Easily access your Docker container web interfaces and keep them up to date — across all your hosts.
 - [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
 - [bodyast/logManager](https://github.com/bodyast/logManager) - Real-time log viewer for remote servers via SSH. Add servers, define log paths, and stream logs in your browser.
 - [robinkarlberg/transfer.zip-web](https://github.com/robinkarlberg/transfer.zip-web) - A self-hostable complete file-sharing solution that focuses on reliability, security and ease of use.
@@ -269,7 +269,7 @@
 
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Agregarr is a Plex Collections manager that keeps your Home and Recommended fresh by frequently updating it with collections from various sources
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
-- [cartesiancs/vessel](https://github.com/cartesiancs/vessel) - Orchestrate physical devices with a single platform 🦾
+- [cartesiancs/vessel](https://github.com/cartesiancs/vessel) - Home security / protection system 🦾
 - [varthe/Redirecter](https://github.com/varthe/Redirecter) - Filter and redirect media requests based on requester, keywords, age ratings, and more. Supports routing to multiple instances simultaneously.
 - [RA341/dockman](https://github.com/RA341/dockman) - Yet another docker compose manager for homelabs
 - [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash) - An open-source user interface designed to manage your server/homelab applications and services.
