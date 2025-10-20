@@ -169,6 +169,7 @@
 
 ## Python 
 
+- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [iongpt/boxarr](https://github.com/iongpt/boxarr) - Boxarr is an automated box office tracking application that integrates with Radarr to monitor, add, and manage the latest theatrical releases. It provides a beautiful dashboard showing the current box
 - [haijeploeg/Prunarr](https://github.com/haijeploeg/Prunarr) - Intelligent media cleanup for Radarr/Sonarr using Tautulli watch history. Automated, safe, user-aware.
 - [trailofbits/buttercup](https://github.com/trailofbits/buttercup) - Buttercup finds and patches software vulnerabilities
@@ -270,6 +271,8 @@
 
 ## TypeScript 
 
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Visually inspect MCP servers
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine) - Home Assistant Time Machine is a web-based tool that acts as a "Time Machine" for your Home Assistant configuration.
 - [Flixorui/flixor](https://github.com/Flixorui/flixor) - 
