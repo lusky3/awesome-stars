@@ -204,7 +204,7 @@
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Easily access your Docker container web interfaces and keep them up to date — across all your hosts.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
-- [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
+- [Phantom8015/Bekters](https://github.com/Phantom8015/Bekters) - A linux web interface
 - [RA341/dockman](https://github.com/RA341/dockman) - Yet another docker compose manager for homelabs
 - [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash) - An open-source user interface designed to manage your server/homelab applications and services.
 - [jamcalli/Pulsarr](https://github.com/jamcalli/Pulsarr) - Pulsarr: Real-time Plex watchlist monitoring and content acquisition tool. Seamlessly sync Plex watchlists with Sonarr and Radarr, featuring intelligent predicated content routing, multi-instance supp
@@ -238,7 +238,7 @@
 
 ## express 
 
-- [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
+- [Phantom8015/Bekters](https://github.com/Phantom8015/Bekters) - A linux web interface
 
 ## flask 
 
@@ -333,7 +333,7 @@
 ## linux 
 
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
-- [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
+- [Phantom8015/Bekters](https://github.com/Phantom8015/Bekters) - A linux web interface
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [zbm-dev/zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS bootloader for root-on-ZFS systems with support for snapshots and native full disk encryption
@@ -380,7 +380,7 @@
 
 ## node 
 
-- [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
+- [Phantom8015/Bekters](https://github.com/Phantom8015/Bekters) - A linux web interface
 
 ## nodejs 
 
@@ -614,7 +614,7 @@
 
 ## server 
 
-- [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
+- [Phantom8015/Bekters](https://github.com/Phantom8015/Bekters) - A linux web interface
 - [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash) - An open-source user interface designed to manage your server/homelab applications and services.
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
@@ -655,7 +655,7 @@
 
 ## terminal 
 
-- [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
+- [Phantom8015/Bekters](https://github.com/Phantom8015/Bekters) - A linux web interface
 - [bodyast/logManager](https://github.com/bodyast/logManager) - Real-time log viewer for remote servers via SSH. Add servers, define log paths, and stream logs in your browser.
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
@@ -670,7 +670,7 @@
 
 ## ubuntu 
 
-- [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
+- [Phantom8015/Bekters](https://github.com/Phantom8015/Bekters) - A linux web interface
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [amefs/quickbox-lite](https://github.com/amefs/quickbox-lite) - Lightweigt QuickBox
@@ -706,7 +706,7 @@
 ## web 
 
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
-- [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
+- [Phantom8015/Bekters](https://github.com/Phantom8015/Bekters) - A linux web interface
 - [Corsinvest/cv4pve-admin](https://github.com/Corsinvest/cv4pve-admin) - Corsinvest for Proxmox VE Web Admin Clusters -  vCenter but for Proxmox VE
 
 ## webapp 
