@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [EJS](#ejs)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -59,6 +60,10 @@
 ## CSS 
 
 - [kolappannathan/acrylic-css](https://github.com/kolappannathan/acrylic-css) - A CSS based style for using acrylic effect in websites. This is inspired from Microsoft's Fluent Design Language.
+
+## EJS 
+
+- [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine) - Home Assistant Time Machine is a web-based tool that acts as a "Time Machine" for your Home Assistant configuration.
 
 ## Go 
 
@@ -275,7 +280,6 @@
 - [MCPJam/inspector](https://github.com/MCPJam/inspector) - Visually inspect MCP servers
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
-- [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine) - Home Assistant Time Machine is a web-based tool that acts as a "Time Machine" for your Home Assistant configuration.
 - [Flixorui/flixor](https://github.com/Flixorui/flixor) - 
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Agregarr is a Plex Collections manager that keeps your Home and Recommended fresh by frequently updating it with collections from various sources
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
