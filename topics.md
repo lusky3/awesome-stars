@@ -30,6 +30,7 @@
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [homebrew](#homebrew)
@@ -287,6 +288,12 @@
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+
+## gui 
+
+- [lucasdillmann/nginx-ignition](https://github.com/lucasdillmann/nginx-ignition) - An user interface for the nginx web server, aimed at developers and enthusiasts that don't want to manage configuration files manually
+- [Phantom8015/LinuxDashboard](https://github.com/Phantom8015/LinuxDashboard) - A linux web interface
+- [akshinmustafayev/EasyJob](https://github.com/akshinmustafayev/EasyJob) - :hammer: EasyJob - keep and execute your PowerShell and BAT scripts from one interface
 
 ## hacktoberfest 
 
