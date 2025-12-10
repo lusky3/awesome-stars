@@ -15,6 +15,7 @@
 - [azure](#azure)
 - [bash](#bash)
 - [bot](#bot)
+- [chatgpt](#chatgpt)
 - [cli](#cli)
 - [cloud](#cloud)
 - [css](#css)
@@ -24,6 +25,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [embedded](#embedded)
 - [express](#express)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -166,6 +168,10 @@
 
 - [shayaantx/botdarr](https://github.com/shayaantx/botdarr) - Slack/Discord/Telegram/Matrix bot for accessing radarr, sonarr, and lidarr
 
+## chatgpt 
+
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Test ChatGPT apps, MCP apps, and MCP servers.
+
 ## cli 
 
 - [haijeploeg/Prunarr](https://github.com/haijeploeg/Prunarr) - Intelligent media cleanup for Radarr/Sonarr using Tautulli watch history. Automated, safe, user-aware.
@@ -255,6 +261,10 @@
 
 - [mayanayza/netvisor](https://github.com/mayanayza/netvisor) - Automatically discover and visually document network infrastructure.
 
+## embedded 
+
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
+
 ## express 
 
 - [Phantom8015/LinuxDashboard](https://github.com/Phantom8015/LinuxDashboard) - A linux web interface
@@ -289,6 +299,7 @@
 
 ## golang 
 
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [lucasdillmann/nginx-ignition](https://github.com/lucasdillmann/nginx-ignition) - An user interface for the nginx web server, aimed at developers and enthusiasts that don't want to manage configuration files manually
@@ -304,6 +315,7 @@
 
 ## hacktoberfest 
 
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [haijeploeg/Prunarr](https://github.com/haijeploeg/Prunarr) - Intelligent media cleanup for Radarr/Sonarr using Tautulli watch history. Automated, safe, user-aware.
 - [mhdzumair/MediaFusion](https://github.com/mhdzumair/MediaFusion) - Universal  Add-On for Stremio & Kodi
 - [zbm-dev/zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS bootloader for root-on-ZFS systems with support for snapshots and native full disk encryption
@@ -335,6 +347,7 @@
 
 ## iot 
 
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 
 ## java 
@@ -367,6 +380,7 @@
 
 ## linux 
 
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [Phantom8015/LinuxDashboard](https://github.com/Phantom8015/LinuxDashboard) - A linux web interface
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
@@ -447,6 +461,9 @@
 
 ## others 
 
+- [DDULDDUCK/pingora-proxy-manager](https://github.com/DDULDDUCK/pingora-proxy-manager) - A high-performance, zero-downtime reverse proxy manager built on Cloudflare's Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL & TCP/UDP Streams!
+- [vikramsoni2/nextExplorer](https://github.com/vikramsoni2/nextExplorer) - Web based File Explorer
+- [dkorecko/PatchPanda](https://github.com/dkorecko/PatchPanda) - Self-hostable Docker Compose stack update manager.
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
 - [Dacid99/Eonvelope](https://github.com/Dacid99/Eonvelope) - Preserve your emails with this open-source self-hostable email archive!                                                  This repository is just a mirror, please go to the gitlab repo at https://gitla
@@ -594,6 +611,7 @@
 
 ## raspberry-pi 
 
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [epoupon/fileshelter](https://github.com/epoupon/fileshelter) - FileShelter is a “one-click” file sharing web application
 
 ## react 
@@ -727,7 +745,6 @@
 
 - [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
-- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Visual inspector for MCP server - Postman for MCP
 - [cartesiancs/vessel](https://github.com/cartesiancs/vessel) - Home security / protection system 🦾
 - [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash) - An open-source user interface designed to manage your server/homelab applications and services.
 - [jamcalli/Pulsarr](https://github.com/jamcalli/Pulsarr) - Pulsarr: Real-time Plex watchlist monitoring and content acquisition tool. Seamlessly sync Plex watchlists with Sonarr and Radarr, featuring intelligent predicated content routing, multi-instance supp
