@@ -233,7 +233,7 @@
 - [jamcalli/Pulsarr](https://github.com/jamcalli/Pulsarr) - Pulsarr: Real-time Plex watchlist monitoring and content acquisition tool. Seamlessly sync Plex watchlists with Sonarr and Radarr, featuring intelligent predicated content routing, multi-instance supp
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [harshhome/diun-boost](https://github.com/harshhome/diun-boost) - diun-boost automatically generates and updates your DIUN configuration with smart version matching, keeping your container monitoring fast, accurate, and fully automated.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
@@ -352,7 +352,7 @@
 ## iot 
 
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 
 ## java 
 
@@ -679,7 +679,7 @@
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [harshhome/diun-boost](https://github.com/harshhome/diun-boost) - diun-boost automatically generates and updates your DIUN configuration with smart version matching, keeping your container monitoring fast, accurate, and fully automated.
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clic
@@ -784,7 +784,7 @@
 
 ## vpn 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
