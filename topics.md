@@ -340,7 +340,6 @@
 
 ## http 
 
-- [sadoyan/aralez](https://github.com/sadoyan/aralez) - Aralez (Արալեզ), Reverse proxy and service mesh built on top of Cloudflare's Pingora
 - [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 
@@ -642,7 +641,7 @@
 
 - [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI
 - [cartesiancs/vessel](https://github.com/cartesiancs/vessel) - Home security / protection system 🦾
-- [sadoyan/aralez](https://github.com/sadoyan/aralez) - Aralez (Արալեզ), Reverse proxy and service mesh built on top of Cloudflare's Pingora
+- [sadoyan/aralez](https://github.com/sadoyan/aralez) - Aralez (Արալեզ), Reverse proxy built on top of Cloudflare's Pingora
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
