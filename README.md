@@ -254,7 +254,7 @@
 
 ## Rust 
 
-- [netvisor-io/netvisor](https://github.com/netvisor-io/netvisor) - Automatically discover and visually document network infrastructure.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
 - [sadoyan/aralez](https://github.com/sadoyan/aralez) - Aralez (Արալեզ), Reverse proxy built on top of Cloudflare's Pingora
