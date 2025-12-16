@@ -261,7 +261,7 @@
 
 ## documentation 
 
-- [netvisor-io/netvisor](https://github.com/netvisor-io/netvisor) - Automatically discover and visually document network infrastructure.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
 
 ## embedded 
 
@@ -667,7 +667,7 @@
 - [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Interactive or unattended with notifications, image backups, autoprune, no pre-pulling and more.
 - [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI
 - [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
-- [netvisor-io/netvisor](https://github.com/netvisor-io/netvisor) - Automatically discover and visually document network infrastructure.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
 - [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
@@ -778,7 +778,7 @@
 
 ## visualization 
 
-- [netvisor-io/netvisor](https://github.com/netvisor-io/netvisor) - Automatically discover and visually document network infrastructure.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
 
 ## vpn 
