@@ -75,7 +75,7 @@
 - [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [devnullvoid/pvetui](https://github.com/devnullvoid/pvetui) - Terminal UI for Proxmox VE
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [dannybouwers/trala](https://github.com/dannybouwers/trala) - A simple, modern, and dynamic dashboard for your Traefik services.
 - [lucasdillmann/nginx-ignition](https://github.com/lucasdillmann/nginx-ignition) - An user interface for the nginx web server, aimed at developers and enthusiasts that don't want to manage configuration files manually
