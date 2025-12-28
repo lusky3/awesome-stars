@@ -469,6 +469,7 @@
 
 ## others 
 
+- [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [Rishabh-Bajpai/server-services-manager](https://github.com/Rishabh-Bajpai/server-services-manager) - A robust, web-based dashboard for managing server services and accessing terminals in real-time. Features a modern dark-themed UI, multi-tab terminal support, and live log monitoring via WebSockets.
 - [MoldyTaint/Cinephage](https://github.com/MoldyTaint/Cinephage) - The AIO solution to your self hosted media gathering needs
 - [DDULDDUCK/pingora-proxy-manager](https://github.com/DDULDDUCK/pingora-proxy-manager) - A high-performance, zero-downtime reverse proxy manager built on Cloudflare's Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL & TCP/UDP Streams!
