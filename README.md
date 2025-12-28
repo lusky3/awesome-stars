@@ -192,6 +192,7 @@
 
 ## Python 
 
+- [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [Dacid99/Eonvelope](https://github.com/Dacid99/Eonvelope) - Preserve your emails with this open-source self-hostable email archive!                                                  This repository is just a mirror, please go to the gitlab repo at https://gitla
 - [sbcrumb/chronarr](https://github.com/sbcrumb/chronarr) - 
 - [segin/arr-monitor](https://github.com/segin/arr-monitor) - Monitor progress on individual file operations on *arr (Sonarr, Radarr, et. al.) media mangers
