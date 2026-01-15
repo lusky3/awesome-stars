@@ -117,7 +117,6 @@
 - [Aletech-Solutions/Open-Atlas-Node](https://github.com/Aletech-Solutions/Open-Atlas-Node) - Manage your local servers like cloud instances using Atlas Node
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Monitoring Automation Platform
 - [vikramsoni2/nextExplorer](https://github.com/vikramsoni2/nextExplorer) - Web based File Explorer
-- [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine) - Home Assistant Time Machine is a web-based tool that acts as a "Time Machine" for your Home Assistant configuration.
 - [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Easily access your Docker container web interfaces and keep them up to date — across all your hosts.
 - [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
 - [bodyast/logManager](https://github.com/bodyast/logManager) - Real-time log viewer for remote servers via SSH. Add servers, define log paths, and stream logs in your browser.
