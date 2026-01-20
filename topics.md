@@ -122,6 +122,7 @@
 
 ## android 
 
+- [Flixorui/flixor](https://github.com/Flixorui/flixor) - Modern cross-platform Plex client
 - [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 
@@ -751,6 +752,7 @@
 
 ## swiftui 
 
+- [Flixorui/flixor](https://github.com/Flixorui/flixor) - Modern cross-platform Plex client
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 
 ## tailwindcss 
