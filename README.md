@@ -314,7 +314,7 @@
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Agregarr is a Plex Collections manager that keeps your Home and Recommended fresh by frequently updating it with collections from various sources
 - [Receipt-Wrangler/receipt-wrangler](https://github.com/Receipt-Wrangler/receipt-wrangler) - Receipt Wrangler application
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
-- [cartesiancs/vessel](https://github.com/cartesiancs/vessel) - Home security / protection system 🦾
+- [cartesiancs/vessel](https://github.com/cartesiancs/vessel) - 🦾 A personal C2 platform for Physical AI. Connect streams. Detect events. Control your world.
 - [varthe/Redirecterr](https://github.com/varthe/Redirecterr) - Filter and redirect media requests based on requester, keywords, age ratings, and more. Supports routing to multiple instances simultaneously.
 - [RA341/dockman](https://github.com/RA341/dockman) - Yet another docker compose manager for homelabs
 - [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash) - An open-source user interface designed to manage your server/homelab applications and services.
