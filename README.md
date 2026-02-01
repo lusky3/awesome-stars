@@ -299,6 +299,8 @@
 
 ## TypeScript 
 
+- [pierceboggan/primer](https://github.com/pierceboggan/primer) - Get your repo ready for AI.
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass) - The "Third Way" for Home Assistant Automations.
 - [trentferguson/homescreen-hero](https://github.com/trentferguson/homescreen-hero) - HomeScreen Hero is a self-hosted web app that keeps your Plex home screen fresh by automatically rotating collections (scheduled or manual) via a modern FastAPI + React dashboard.
 - [MoldyTaint/Cinephage](https://github.com/MoldyTaint/Cinephage) - The AIO solution to your self hosted media gathering needs
