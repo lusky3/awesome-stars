@@ -7,6 +7,7 @@
 
 - [agent](#agent)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [android](#android)
 - [api](#api)
 - [automation](#automation)
@@ -120,6 +121,10 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
+
+## ai-agents 
+
+- [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
 ## android 
 
@@ -488,13 +493,14 @@
 
 ## others 
 
+- [supermemoryai/claude-supermemory](https://github.com/supermemoryai/claude-supermemory) - Enable Claude Code to learn in real-time, update it's knowledge, and grow with you, using supermemory.
 - [pierceboggan/primer](https://github.com/pierceboggan/primer) - Get your repo ready for AI.
 - [trentferguson/homescreen-hero](https://github.com/trentferguson/homescreen-hero) - HomeScreen Hero is a self-hosted web app that keeps your Plex home screen fresh by automatically rotating collections (scheduled or manual) via a modern FastAPI + React dashboard.
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [Rishabh-Bajpai/server-services-manager](https://github.com/Rishabh-Bajpai/server-services-manager) - A robust, web-based dashboard for managing server services and accessing terminals in real-time. Features a modern dark-themed UI, multi-tab terminal support, and live log monitoring via WebSockets.
 - [MoldyTaint/Cinephage](https://github.com/MoldyTaint/Cinephage) - The AIO solution to your self hosted media gathering needs
 - [DDULDDUCK/pingora-proxy-manager](https://github.com/DDULDDUCK/pingora-proxy-manager) - A high-performance, zero-downtime reverse proxy manager built on Cloudflare's Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL & TCP/UDP Streams!
-- [vikramsoni2/nextExplorer](https://github.com/vikramsoni2/nextExplorer) - Web based File Explorer
+- [vikramsoni2/NextExplorer](https://github.com/vikramsoni2/NextExplorer) - Web based File Explorer
 - [dkorecko/PatchPanda](https://github.com/dkorecko/PatchPanda) - Self-hostable Docker Compose stack update manager.
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
