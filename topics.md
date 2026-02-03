@@ -500,7 +500,7 @@
 - [Rishabh-Bajpai/server-services-manager](https://github.com/Rishabh-Bajpai/server-services-manager) - A robust, web-based dashboard for managing server services and accessing terminals in real-time. Features a modern dark-themed UI, multi-tab terminal support, and live log monitoring via WebSockets.
 - [MoldyTaint/Cinephage](https://github.com/MoldyTaint/Cinephage) - The AIO solution to your self hosted media gathering needs
 - [DDULDDUCK/pingora-proxy-manager](https://github.com/DDULDDUCK/pingora-proxy-manager) - A high-performance, zero-downtime reverse proxy manager built on Cloudflare's Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL & TCP/UDP Streams!
-- [vikramsoni2/NextExplorer](https://github.com/vikramsoni2/NextExplorer) - Web based File Explorer
+- [nxzai/NextExplorer](https://github.com/nxzai/NextExplorer) - Web based File Explorer
 - [dkorecko/PatchPanda](https://github.com/dkorecko/PatchPanda) - Self-hostable Docker Compose stack update manager.
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
