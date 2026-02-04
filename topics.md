@@ -109,6 +109,7 @@
 
 ## agent 
 
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents. OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system p
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [ZeroQI/Hama.bundle](https://github.com/ZeroQI/Hama.bundle) - Plex HTTP Anidb Metadata Agent (HAMA)
 
@@ -124,6 +125,7 @@
 
 ## ai-agents 
 
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents. OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system p
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
 ## android 
@@ -415,6 +417,7 @@
 
 ## llm 
 
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents. OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system p
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## login 
@@ -495,7 +498,6 @@
 
 - [supermemoryai/claude-supermemory](https://github.com/supermemoryai/claude-supermemory) - Enable Claude Code to learn in real-time, update it's knowledge, and grow with you, using supermemory.
 - [pierceboggan/primer](https://github.com/pierceboggan/primer) - Get your repo ready for AI.
-- [trentferguson/homescreen-hero](https://github.com/trentferguson/homescreen-hero) - HomeScreen Hero is a self-hosted web app that keeps your Plex home screen fresh by automatically rotating collections (scheduled or manual) via a modern FastAPI + React dashboard.
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [Rishabh-Bajpai/server-services-manager](https://github.com/Rishabh-Bajpai/server-services-manager) - A robust, web-based dashboard for managing server services and accessing terminals in real-time. Features a modern dark-themed UI, multi-tab terminal support, and live log monitoring via WebSockets.
 - [MoldyTaint/Cinephage](https://github.com/MoldyTaint/Cinephage) - The AIO solution to your self hosted media gathering needs
@@ -642,6 +644,7 @@
 
 ## rag 
 
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents. OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system p
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## raspberry-pi 
@@ -701,6 +704,7 @@
 ## self-hosted 
 
 - [Aletech-Solutions/Open-Atlas-Node](https://github.com/Aletech-Solutions/Open-Atlas-Node) - Manage your local servers like cloud instances using Atlas Node
+- [trentferguson/homescreen-hero](https://github.com/trentferguson/homescreen-hero) - homescreen-hero is a self-hosted Plex companion app with homescreen management, server insights, and useful tools, all in a sleek web dashboard
 - [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Interactive or unattended with notifications, image backups, autoprune, no pre-pulling and more.
 - [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI
 - [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
