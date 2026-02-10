@@ -101,7 +101,6 @@
 ## HTML 
 
 - [Rishabh-Bajpai/server-services-manager](https://github.com/Rishabh-Bajpai/server-services-manager) - A robust, web-based dashboard for managing server services and accessing terminals in real-time. Features a modern dark-themed UI, multi-tab terminal support, and live log monitoring via WebSockets.
-- [Kometa-Team/Quickstart](https://github.com/Kometa-Team/Quickstart) - `config.yml` generator for use with Kometa
 
 ## Java 
 
@@ -124,6 +123,7 @@
 - [bodyast/logManager](https://github.com/bodyast/logManager) - Real-time log viewer for remote servers via SSH. Add servers, define log paths, and stream logs in your browser.
 - [robinkarlberg/transfer.zip-web](https://github.com/robinkarlberg/transfer.zip-web) - A self-hostable complete file-sharing solution that focuses on reliability, security and ease of use.
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
+- [Kometa-Team/Quickstart](https://github.com/Kometa-Team/Quickstart) - `config.yml` generator for use with Kometa
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [knightcrawler-stremio/knightcrawler](https://github.com/knightcrawler-stremio/knightcrawler) - A selfhosted Stremio addon
