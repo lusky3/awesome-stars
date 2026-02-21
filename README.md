@@ -123,6 +123,7 @@
 
 ## JavaScript 
 
+- [MickyGX/launcharr](https://github.com/MickyGX/launcharr) - 
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [sjlu/popular-movies](https://github.com/sjlu/popular-movies) - Tries to create a list of popular movies based on a series of heuristics
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
@@ -344,6 +345,7 @@
 
 ## TypeScript 
 
+- [SuFxGIT/scoutarr](https://github.com/SuFxGIT/scoutarr) - Automate media upgrades in Radarr, Sonarr, Lidarr, and Readarr with smart filtering, scheduling, and a modern web UI.
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
