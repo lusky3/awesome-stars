@@ -575,6 +575,8 @@
 
 ## others 
 
+- [SuFxGIT/scoutarr](https://github.com/SuFxGIT/scoutarr) - Automate media upgrades in Radarr, Sonarr, Lidarr, and Readarr with smart filtering, scheduling, and a modern web UI.
+- [MickyGX/launcharr](https://github.com/MickyGX/launcharr) - 
 - [darthnorse/dockmon](https://github.com/darthnorse/dockmon) - DockMon - Modern Docker container monitoring with auto-restart and alerts
 - [captn-io/captn](https://github.com/captn-io/captn) - Keep your containers up-to-date with confidence and control.
 - [Arcadia-Solutions/Dasharr](https://github.com/Arcadia-Solutions/Dasharr) - Dashboard of your indexers' usage
