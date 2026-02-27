@@ -342,7 +342,7 @@
 
 ## TypeScript 
 
-- [vinkius-labs/mcp-fusion](https://github.com/vinkius-labs/mcp-fusion) - MCP Fusion: The design system and infrastructure for Agent-Native data.  It’s more than a framework; it’s an ecosystem that bridges the gap between raw data and agent cognition. MCP Fusion provides th
+- [vinkius-labs/mcp-fusion](https://github.com/vinkius-labs/mcp-fusion) - Create your MCP server at lightspeed - The MVA framework for the Model Context Protocol. Build production-grade MCP servers with type safety, behavioral governance, and zero boilerplate.
 - [SuFxGIT/scoutarr](https://github.com/SuFxGIT/scoutarr) - Automate media upgrades in Radarr, Sonarr, Lidarr, and Readarr with smart filtering, scheduling, and a modern web UI.
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
