@@ -123,6 +123,7 @@
 
 ## JavaScript 
 
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [MickyGX/launcharr](https://github.com/MickyGX/launcharr) - 
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [sjlu/popular-movies](https://github.com/sjlu/popular-movies) - Tries to create a list of popular movies based on a series of heuristics
@@ -285,6 +286,7 @@
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [DDULDDUCK/pingora-proxy-manager](https://github.com/DDULDDUCK/pingora-proxy-manager) - A high-performance, zero-downtime reverse proxy manager built on Cloudflare's Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL & TCP/UDP Streams!
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
@@ -342,7 +344,7 @@
 
 ## TypeScript 
 
-- [vinkius-labs/mcp-fusion](https://github.com/vinkius-labs/mcp-fusion) - Create your MCP server at lightspeed - The MVA framework for the Model Context Protocol. Build production-grade MCP servers with type safety, behavioral governance, and zero boilerplate.
+- [vinkius-labs/mcp-fusion](https://github.com/vinkius-labs/mcp-fusion) - Create your MCP server at lightspeed - AI-First DX for the Model Context Protocol. Build production-grade MCP servers with type safety, behavioral governance, and zero boilerplate.
 - [SuFxGIT/scoutarr](https://github.com/SuFxGIT/scoutarr) - Automate media upgrades in Radarr, Sonarr, Lidarr, and Readarr with smart filtering, scheduling, and a modern web UI.
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
@@ -355,7 +357,6 @@
 - [FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass) - The "Third Way" for Home Assistant Automations.
 - [trentferguson/homescreen-hero](https://github.com/trentferguson/homescreen-hero) - self-hosted Plex companion app with homescreen management, server insights, and useful tools, all in a sleek web dashboard
 - [MoldyTaint/Cinephage](https://github.com/MoldyTaint/Cinephage) - The AIO solution to your self hosted media gathering needs
-- [DDULDDUCK/pingora-proxy-manager](https://github.com/DDULDDUCK/pingora-proxy-manager) - A high-performance, zero-downtime reverse proxy manager built on Cloudflare's Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL & TCP/UDP Streams!
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
