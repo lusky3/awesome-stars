@@ -121,12 +121,14 @@
 
 ## agent 
 
+- [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [ZeroQI/Hama.bundle](https://github.com/ZeroQI/Hama.bundle) - Plex HTTP Anidb Metadata Agent (HAMA)
 
 ## ai 
 
+- [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
@@ -454,6 +456,7 @@
 
 ## javascript 
 
+- [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [Darkseal/CORSflare](https://github.com/Darkseal/CORSflare) - A lightweight JavaScript CORS Reverse Proxy designed to run in a Cloudflare Worker.
 - [d2phap/fluent-reveal-effect](https://github.com/d2phap/fluent-reveal-effect) - Fluent Reveal Effect JavaScript library for web
 
@@ -496,6 +499,7 @@
 
 ## llm 
 
+- [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts) - Vurb.ts - The TypeScript Framework for MCP Servers. Type-safe tools, structured AI perception, and built-in security. Deploy once — every AI assistant connects instantly.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
