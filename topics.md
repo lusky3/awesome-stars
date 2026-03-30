@@ -264,7 +264,6 @@
 
 ## devops 
 
-- [deep-on/dockprobe](https://github.com/deep-on/dockprobe) - Lightweight Docker monitoring dashboard with anomaly detection & Telegram alerts. One-liner install, zero config.
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [CanineHQ/canine](https://github.com/CanineHQ/canine) - A developer friendly PaaS for your Kubernetes
 - [bodyast/logManager](https://github.com/bodyast/logManager) - Real-time log viewer for remote servers via SSH. Add servers, define log paths, and stream logs in your browser.
@@ -291,7 +290,6 @@
 ## docker 
 
 - [av1155/houndarr](https://github.com/av1155/houndarr) - Self-hosted *arr companion for controlled missing, cutoff, and upgrade searches.
-- [deep-on/dockprobe](https://github.com/deep-on/dockprobe) - Lightweight Docker monitoring dashboard with anomaly detection & Telegram alerts. One-liner install, zero config.
 - [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
@@ -354,7 +352,6 @@
 ## fastapi 
 
 - [av1155/houndarr](https://github.com/av1155/houndarr) - Self-hosted *arr companion for controlled missing, cutoff, and upgrade searches.
-- [deep-on/dockprobe](https://github.com/deep-on/dockprobe) - Lightweight Docker monitoring dashboard with anomaly detection & Telegram alerts. One-liner install, zero config.
 
 ## finance 
 
@@ -557,7 +554,6 @@
 
 ## monitoring 
 
-- [deep-on/dockprobe](https://github.com/deep-on/dockprobe) - Lightweight Docker monitoring dashboard with anomaly detection & Telegram alerts. One-liner install, zero config.
 - [clemcer/LoggiFly](https://github.com/clemcer/LoggiFly) - Get Alerts from your Docker Container Logs
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [thecfu/scraparr](https://github.com/thecfu/scraparr) - Scraparr is a Prometheus Exporter for various components of the *arr Suite
@@ -888,7 +884,6 @@
 ## self-hosted 
 
 - [av1155/houndarr](https://github.com/av1155/houndarr) - Self-hosted *arr companion for controlled missing, cutoff, and upgrade searches.
-- [deep-on/dockprobe](https://github.com/deep-on/dockprobe) - Lightweight Docker monitoring dashboard with anomaly detection & Telegram alerts. One-liner install, zero config.
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
@@ -980,7 +975,6 @@
 
 ## telegram 
 
-- [deep-on/dockprobe](https://github.com/deep-on/dockprobe) - Lightweight Docker monitoring dashboard with anomaly detection & Telegram alerts. One-liner install, zero config.
 - [shayaantx/botdarr](https://github.com/shayaantx/botdarr) - Slack/Discord/Telegram/Matrix bot for accessing radarr, sonarr, and lidarr
 
 ## terminal 
