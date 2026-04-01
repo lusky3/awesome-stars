@@ -146,6 +146,7 @@
 
 ## ai-agents 
 
+- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -259,7 +260,7 @@
 
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
+- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Autonomous Cloud for modern builders
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 
@@ -414,7 +415,7 @@
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
-- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
+- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Autonomous Cloud for modern builders
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [lucasdillmann/nginx-ignition](https://github.com/lucasdillmann/nginx-ignition) - An user interface for the nginx web server, aimed at developers and enthusiasts that don't want to manage configuration files manually
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
@@ -601,7 +602,7 @@
 
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
+- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Autonomous Cloud for modern builders
 
 ## node 
 
@@ -907,7 +908,7 @@
 - [trentferguson/homescreen-hero](https://github.com/trentferguson/homescreen-hero) - self-hosted Plex companion app with homescreen management, server insights, and useful tools, all in a sleek web dashboard
 - [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Interactive or unattended with notifications, image backups, autoprune, no pre-pulling and more.
 - [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI
-- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
+- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Autonomous Cloud for modern builders
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself.
 - [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
@@ -993,7 +994,7 @@
 ## terminal 
 
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
+- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Autonomous Cloud for modern builders
 - [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
 - [bodyast/logManager](https://github.com/bodyast/logManager) - Real-time log viewer for remote servers via SSH. Add servers, define log paths, and stream logs in your browser.
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
@@ -1011,7 +1012,7 @@
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts) - Vurb.ts - The TypeScript Framework for MCP Servers. Type-safe tools, structured AI perception, and built-in security. Deploy once — every AI assistant connects instantly.
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
-- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
+- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Autonomous Cloud for modern builders
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [cartesiancs/vessel](https://github.com/cartesiancs/vessel) - 🦾 A personal C2 platform for Physical AI. Connect streams. Detect events. Control your world.
 - [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash) - An open-source dashboard designed to manage your server/homelab applications and services.
