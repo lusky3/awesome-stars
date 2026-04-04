@@ -11,6 +11,7 @@
 - [CSS](#css)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -78,6 +79,10 @@
 ## Dockerfile 
 
 - [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools
+
+## Fluent 
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
 ## Go 
 
@@ -244,7 +249,7 @@
 - [PyroghostX/ForgottenMovies](https://github.com/PyroghostX/ForgottenMovies) - App built to remind users about media they requested but never watched. Requires Plex, Tautulli and Overseerr.
 - [sbcrumb/chronarr](https://github.com/sbcrumb/chronarr) - 
 - [segin/arr-monitor](https://github.com/segin/arr-monitor) - Monitor progress on individual file operations on *arr (Sonarr, Radarr, et. al.) media mangers
-- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [iongpt/boxarr](https://github.com/iongpt/boxarr) - Boxarr is an automated box office tracking application that integrates with Radarr to monitor, add, and manage the latest theatrical releases. It provides a beautiful dashboard showing the current box
 - [haijeploeg/Prunarr](https://github.com/haijeploeg/Prunarr) - Intelligent media cleanup for Radarr/Sonarr using Tautulli watch history. Automated, safe, user-aware.
 - [trailofbits/buttercup](https://github.com/trailofbits/buttercup) - Buttercup finds and patches software vulnerabilities
@@ -302,7 +307,6 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [DDULDDUCK/pingora-proxy-manager](https://github.com/DDULDDUCK/pingora-proxy-manager) - A high-performance, zero-downtime reverse proxy manager built on Cloudflare's Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL & TCP/UDP Streams!
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
