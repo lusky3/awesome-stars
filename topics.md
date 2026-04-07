@@ -19,6 +19,7 @@
 - [bot](#bot)
 - [c](#c)
 - [chatgpt](#chatgpt)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
 - [coding](#coding)
@@ -225,6 +226,17 @@
 ## chatgpt 
 
 - [MCPJam/inspector](https://github.com/MCPJam/inspector) - Test, Evaluate, and Ship MCP servers, ChatGPT apps, and MCP Apps (ext-apps)
+
+## claude-code 
+
+- [Enderfga/openclaw-claude-code](https://github.com/Enderfga/openclaw-claude-code) - OpenClaw plugin — turn Claude Code CLI into a programmable, headless coding engine with plenty of tools, agent teams, and multi-model proxy
+- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work
+- [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 7 AI CLIs + headless browser + 50+ tools
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms
+- [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts) - Vurb.ts - The TypeScript Framework for MCP Servers. Type-safe tools, structured AI perception, and built-in security. Deploy once — every AI assistant connects instantly.
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 
 ## cli 
 
@@ -657,7 +669,6 @@
 - [egg82/fetcharr](https://github.com/egg82/fetcharr) - hunts for missing or upgradable media in your *arr stack
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
-- [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
 - [adamveld12/ghost](https://github.com/adamveld12/ghost) - Git is the coding agent
 - [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent harness to make your slop code well-engineered and beautiful.
 - [Sir-Scuzza/gluetun-webui](https://github.com/Sir-Scuzza/gluetun-webui) - 
