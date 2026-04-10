@@ -663,6 +663,8 @@
 
 ## others 
 
+- [Memento-Teams/Memento-Skills](https://github.com/Memento-Teams/Memento-Skills) - Memento-Skills: Let Agents Design Agents
+- [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) - 
 - [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) - "ClawTeam: Agent Swarm Intelligence" (One Command → Full Automation)
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness"
 - [kevinrgu/autoagent](https://github.com/kevinrgu/autoagent) - autonomous harness engineering
