@@ -234,7 +234,7 @@
 
 - [Memento-Teams/Memento-Skills](https://github.com/Memento-Teams/Memento-Skills) - Memento-Skills: Let Agents Design Agents
 - [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) - "ClawTeam: Agent Swarm Intelligence" (One Command → Full Automation)
-- [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness"
+- [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - OpenHarness: Open Agent Harness with a built-in personal agent, Ohmo!
 - [kevinrgu/autoagent](https://github.com/kevinrgu/autoagent) - autonomous harness engineering
 - [av1155/houndarr](https://github.com/av1155/houndarr) - Self-hosted *arr companion for controlled missing, cutoff, and upgrade searches.
 - [Headendarr/Headendarr](https://github.com/Headendarr/Headendarr) - A user-friendly management layer for TVHeadend that simplifies IPTV playlist integration, EPG mapping, and DVR scheduling.
@@ -372,6 +372,7 @@
 
 ## TypeScript 
 
+- [lucasastorian/llmwiki](https://github.com/lucasastorian/llmwiki) - Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !
 - [Enderfga/openclaw-claude-code](https://github.com/Enderfga/openclaw-claude-code) - OpenClaw plugin — turn Claude Code CLI into a programmable, headless coding engine with plenty of tools, agent teams, and multi-model proxy
 - [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source.
