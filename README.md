@@ -86,6 +86,8 @@
 
 ## Go 
 
+- [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas) - Live Docker & Kubernetes infrastructure visualization — containers, pods, volumes, and networks in one visual map. No VPN, no inbound ports.
+- [maxjb-xyz/blackbox](https://github.com/maxjb-xyz/blackbox) - The Forensic Journal for your Infrastructure. Written in Go for maximum impact with minimal footprint.
 - [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 - [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) - 
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
@@ -138,6 +140,7 @@
 
 ## JavaScript 
 
+- [agent0ai/space-agent](https://github.com/agent0ai/space-agent) - The agent that re-shapes the Space
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
 - [Sir-Scuzza/gluetun-webui](https://github.com/Sir-Scuzza/gluetun-webui) - 
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -237,6 +240,7 @@
 - [yzhao062/anywhere-agents](https://github.com/yzhao062/anywhere-agents) - One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard).
 - [Rohithkadaveru/ha-pass](https://github.com/Rohithkadaveru/ha-pass) - 
 - [jhn322/kometa-config](https://github.com/jhn322/kometa-config) - My Kometa config for automatically creating collection, overlays with rating scores and maintenance for Plex.
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 - [Memento-Teams/Memento-Skills](https://github.com/Memento-Teams/Memento-Skills) - Memento-Skills: Let Agents Design Agents
 - [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) - "ClawTeam: Agent Swarm Intelligence" (One Command → Full Automation)
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
@@ -311,6 +315,7 @@
 
 ## Rust 
 
+- [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -339,7 +344,6 @@
 
 - [TheMorpheus407/RepoLens](https://github.com/TheMorpheus407/RepoLens) - Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 - [adamveld12/ghost](https://github.com/adamveld12/ghost) - Git is the coding agent
 - [erikw/restic-automatic-backup-scheduler](https://github.com/erikw/restic-automatic-backup-scheduler) - Automatic restic backup using Backblaze B2 storage and either Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron.
 - [fileflows/community-repository](https://github.com/fileflows/community-repository) - Community Repository for FileFlows Scripts/Flows etc
