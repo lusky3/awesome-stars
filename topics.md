@@ -265,7 +265,7 @@
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
 - [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts) - The Express.js for MCP Servers. Type-safe tools · Presenters that control what the LLM sees · Built-in PII redaction · Deploy once — every AI assistant connects.
+- [vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts) - The TypeScript MCP framework where every AI agent finds its first action — and every action after.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 
 ## cli 
@@ -323,7 +323,7 @@
 - [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas) - Live Docker & Kubernetes infrastructure visualization - containers, pods, volumes, and networks in one visual map. No VPN, no inbound ports.
 - [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 7 AI CLIs + headless browser + 50+ tools
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts) - The Express.js for MCP Servers. Type-safe tools · Presenters that control what the LLM sees · Built-in PII redaction · Deploy once — every AI assistant connects.
+- [vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts) - The TypeScript MCP framework where every AI agent finds its first action — and every action after.
 
 ## devops 
 
@@ -354,6 +354,7 @@
 
 ## docker 
 
+- [chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager) - A clean, self-hosted web UI for managing your Traefik reverse proxy.
 - [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas) - Live Docker & Kubernetes infrastructure visualization - containers, pods, volumes, and networks in one visual map. No VPN, no inbound ports.
 - [maxjb-xyz/blackbox](https://github.com/maxjb-xyz/blackbox) - The Forensic Journal for your Infrastructure. Written in Go for maximum impact with minimal footprint.
 - [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
@@ -437,6 +438,7 @@
 
 ## flask 
 
+- [chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager) - A clean, self-hosted web UI for managing your Traefik reverse proxy.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 
 ## flutter 
@@ -445,7 +447,7 @@
 
 ## framework 
 
-- [vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts) - The Express.js for MCP Servers. Type-safe tools · Presenters that control what the LLM sees · Built-in PII redaction · Deploy once — every AI assistant connects.
+- [vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts) - The TypeScript MCP framework where every AI agent finds its first action — and every action after.
 
 ## git 
 
@@ -468,7 +470,7 @@
 - [sottey/dashuni](https://github.com/sottey/dashuni) - You keep one single source of truth about your servers, services, and bookmarks, and Dashuni generates the correct config for your favorite dashboard.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [itstoragesvc/dnscontrol](https://github.com/itstoragesvc/dnscontrol) - Infrastructure as code for DNS!
+- [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) - Infrastructure as code for DNS!
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
 - [eschizoid/flixctl](https://github.com/eschizoid/flixctl) - A toolkit for controlling the infrastructure necessary for a true MaSaS (Movies and Shows as a Service) architecture.
 
@@ -605,7 +607,7 @@
 - [lucasastorian/llmwiki](https://github.com/lucasastorian/llmwiki) - Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !
 - [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts) - The Express.js for MCP Servers. Type-safe tools · Presenters that control what the LLM sees · Built-in PII redaction · Deploy once — every AI assistant connects.
+- [vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts) - The TypeScript MCP framework where every AI agent finds its first action — and every action after.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping y
@@ -636,7 +638,7 @@
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts) - The Express.js for MCP Servers. Type-safe tools · Presenters that control what the LLM sees · Built-in PII redaction · Deploy once — every AI assistant connects.
+- [vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts) - The TypeScript MCP framework where every AI agent finds its first action — and every action after.
 - [samanhappy/mcphub](https://github.com/samanhappy/mcphub) - A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into separate endpoints with flexible routing strategies
 - [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
 - [MCPJam/inspector](https://github.com/MCPJam/inspector) - Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps, and ChatGPT apps.
@@ -712,7 +714,7 @@
 ## open-source 
 
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
-- [vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts) - The Express.js for MCP Servers. Type-safe tools · Presenters that control what the LLM sees · Built-in PII redaction · Deploy once — every AI assistant connects.
+- [vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts) - The TypeScript MCP framework where every AI agent finds its first action — and every action after.
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 - [bodyast/logManager](https://github.com/bodyast/logManager) - Real-time log viewer for remote servers via SSH. Add servers, define log paths, and stream logs in your browser.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
@@ -926,6 +928,7 @@
 
 ## python3 
 
+- [chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager) - A clean, self-hosted web UI for managing your Traefik reverse proxy.
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [vitorfs/colossus](https://github.com/vitorfs/colossus) - Self-hosted email marketing solution
 
@@ -1125,7 +1128,7 @@
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - JMAP Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source.
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
-- [vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts) - The Express.js for MCP Servers. Type-safe tools · Presenters that control what the LLM sees · Built-in PII redaction · Deploy once — every AI assistant connects.
+- [vinkius-labs/vurb.ts](https://github.com/vinkius-labs/vurb.ts) - The TypeScript MCP framework where every AI agent finds its first action — and every action after.
 - [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [cartesiancs/vessel](https://github.com/cartesiancs/vessel) - 🦾 Runtime for Physical AI. Connect streams. Detect events. Control your world.
