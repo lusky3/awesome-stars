@@ -320,6 +320,7 @@
 
 ## developer-tools 
 
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - A Better Secrets Scanner built for configurability and speed
 - [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas) - Live Docker & Kubernetes infrastructure visualization - containers, pods, volumes, and networks in one visual map. No VPN, no inbound ports.
 - [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 7 AI CLIs + headless browser + 50+ tools
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -327,6 +328,7 @@
 
 ## devops 
 
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - A Better Secrets Scanner built for configurability and speed
 - [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas) - Live Docker & Kubernetes infrastructure visualization - containers, pods, volumes, and networks in one visual map. No VPN, no inbound ports.
 - [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
@@ -451,16 +453,19 @@
 
 ## git 
 
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - A Better Secrets Scanner built for configurability and speed
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [impredicative/gec](https://github.com/impredicative/gec) - CLI utility for github+git+gocryptfs in Bash for Linux
 
 ## github 
 
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - A Better Secrets Scanner built for configurability and speed
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 
 ## go 
 
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - A Better Secrets Scanner built for configurability and speed
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
@@ -476,6 +481,7 @@
 
 ## golang 
 
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - A Better Secrets Scanner built for configurability and speed
 - [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas) - Live Docker & Kubernetes infrastructure visualization - containers, pods, volumes, and networks in one visual map. No VPN, no inbound ports.
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
@@ -733,6 +739,7 @@
 
 ## others 
 
+- [tiangolo/library-skills](https://github.com/tiangolo/library-skills) - Library Agent Skills
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [agent0ai/space-agent](https://github.com/agent0ai/space-agent) - The agent that re-shapes the Space
@@ -809,7 +816,7 @@
 - [bullmoose20/Plex-Stuff](https://github.com/bullmoose20/Plex-Stuff) - Random plex related stuff
 - [I-am-PUID-0/DMB](https://github.com/I-am-PUID-0/DMB) - Debrid Media Bridge
 - [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo) - A powerful, self-hosted file-sharing platform built with PHP and Laravel with a Vue.js frontend. It offers secure, customizable file-transfer capabilities through an elegant user interface, giving you
-- [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
+- [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Advanced download manager for the Servarr ecosystem
 - [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist) - Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
 - [deajan/osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
 - [rivenmedia/riven](https://github.com/rivenmedia/riven) - Handle your Media Library with ease!
@@ -908,6 +915,7 @@
 
 ## python 
 
+- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [av1155/houndarr](https://github.com/av1155/houndarr) - Self-hosted *arr companion for controlled missing, cutoff, and upgrade searches.
 - [bit-team/backintime](https://github.com/bit-team/backintime) - A comfortable and well-configurable graphical Frontend for incremental backups, with a command-line version also available. Modified files are transferred, while unchanged files are linked to the new 
 - [bareos/bareos](https://github.com/bareos/bareos) - Bareos is a cross-network Open Source backup solution (licensed under AGPLv3) which preserves, archives, and recovers data from all major operating systems.
@@ -994,6 +1002,7 @@
 
 ## security 
 
+- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [bareos/bareos](https://github.com/bareos/bareos) - Bareos is a cross-network Open Source backup solution (licensed under AGPLv3) which preserves, archives, and recovers data from all major operating systems.
@@ -1007,6 +1016,7 @@
 
 ## security-tools 
 
+- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis) - A modular vulnerability scanner with automatic report generation capabilities.
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 
