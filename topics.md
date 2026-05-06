@@ -743,6 +743,7 @@
 
 ## others 
 
+- [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 - [vercel-labs/ai-cli](https://github.com/vercel-labs/ai-cli) - Generate anything from your terminal
 - [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) - 
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
@@ -817,7 +818,7 @@
 - [Vansmak/OCDarr](https://github.com/Vansmak/OCDarr) - Automates sending and deleting episodes or seasons to sonarr as played based on your rules
 - [steveharsant/purgarr](https://github.com/steveharsant/purgarr) - Plunder the best, purge the rest!
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
-- [Kometa-Team/Quickstart](https://github.com/Kometa-Team/Quickstart) - `config.yml` generator for use with Kometa
+- [Kometa-Team/Quickstart](https://github.com/Kometa-Team/Quickstart) - UI wrapper to run Kometa and ImageMaid
 - [undernightcore/dockerizalo](https://github.com/undernightcore/dockerizalo) - The simplest deployment platform made for self-hosters.
 - [bullmoose20/Plex-Stuff](https://github.com/bullmoose20/Plex-Stuff) - Random plex related stuff
 - [I-am-PUID-0/DMB](https://github.com/I-am-PUID-0/DMB) - Debrid Media Bridge
