@@ -147,6 +147,7 @@
 
 ## agents 
 
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [lucasastorian/llmwiki](https://github.com/lucasastorian/llmwiki) - Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !
 - [jonwiggins/optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agents, from task to merged PR.
@@ -177,6 +178,8 @@
 
 ## ai-agents 
 
+- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
+- [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) - OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
 - [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Commit
 - [AppControlLabs/appcontrol-mcp-go](https://github.com/AppControlLabs/appcontrol-mcp-go) - AppControl MCP is a local server connecting AI agents and IDEs like Claude, Cursor, and Windsurf to system history provided by the AppControl desktop app. Ask which apps used CPU, GPU, RAM, or disk, a
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -210,6 +213,7 @@
 
 ## automation 
 
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [RekklesNA/ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) - Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.
 - [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [HydroshieldMKII/Guardian](https://github.com/HydroshieldMKII/Guardian) - Guardian is a lightweight companion app for Plex that lets you monitor, approve or block devices in real time. It helps you enforce per-user or global policies, stop unwanted sessions automatically an
@@ -274,6 +278,11 @@
 
 ## claude-code 
 
+- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
+- [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) - OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
+- [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great
+- [jasmedia/cc-pr-reviewer](https://github.com/jasmedia/cc-pr-reviewer) - Review your GitHub PR queue with Claude Code, from a TUI
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [AppControlLabs/appcontrol-mcp-go](https://github.com/AppControlLabs/appcontrol-mcp-go) - AppControl MCP is a local server connecting AI agents and IDEs like Claude, Cursor, and Windsurf to system history provided by the AppControl desktop app. Ask which apps used CPU, GPU, RAM, or disk, a
 - [jalaalrd/anti-ai-slop-writing](https://github.com/jalaalrd/anti-ai-slop-writing) - AI writing skill that eliminates detectable AI patterns. Works with Claude Code, Codex, Cursor, Gemini CLI, and 8+ other agents.
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
@@ -292,6 +301,9 @@
 
 ## cli 
 
+- [regenrek/peky](https://github.com/regenrek/peky) - All your AI Agents like Claude Code, Codex CLI in a single TUI to keep things organized.
+- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
+- [jasmedia/cc-pr-reviewer](https://github.com/jasmedia/cc-pr-reviewer) - Review your GitHub PR queue with Claude Code, from a TUI
 - [Enderfga/claw-orchestrator](https://github.com/Enderfga/claw-orchestrator) - Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime for claw-style agent systems. Runs standalone, with first-class OpenClaw plugin support.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -313,6 +325,7 @@
 
 ## code-review 
 
+- [jasmedia/cc-pr-reviewer](https://github.com/jasmedia/cc-pr-reviewer) - Review your GitHub PR queue with Claude Code, from a TUI
 - [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Commit
 - [yzhao062/anywhere-agents](https://github.com/yzhao062/anywhere-agents) - One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard).
 
@@ -344,6 +357,9 @@
 
 ## developer-tools 
 
+- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
+- [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great
+- [jasmedia/cc-pr-reviewer](https://github.com/jasmedia/cc-pr-reviewer) - Review your GitHub PR queue with Claude Code, from a TUI
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Scan the world (for secrets)
 - [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas) - Live Docker & Kubernetes infrastructure visualization - containers, pods, volumes, and networks in one visual map. No VPN, no inbound ports.
 - [Enderfga/claw-orchestrator](https://github.com/Enderfga/claw-orchestrator) - Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime for claw-style agent systems. Runs standalone, with first-class OpenClaw plugin support.
@@ -352,6 +368,7 @@
 
 ## devops 
 
+- [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) - OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Scan the world (for secrets)
 - [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas) - Live Docker & Kubernetes infrastructure visualization - containers, pods, volumes, and networks in one visual map. No VPN, no inbound ports.
 - [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
@@ -362,6 +379,7 @@
 
 ## discord 
 
+- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [jordanlambrecht/calendarr](https://github.com/jordanlambrecht/calendarr) - A docker container that will publish Sonarr and Radarr's release calendar to Discord + Slack on a weekly/daily basis
 - [shayaantx/botdarr](https://github.com/shayaantx/botdarr) - Slack/Discord/Telegram/Matrix bot for accessing radarr, sonarr, and lidarr
 - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com
@@ -508,6 +526,7 @@
 
 ## golang 
 
+- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Scan the world (for secrets)
 - [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas) - Live Docker & Kubernetes infrastructure visualization - containers, pods, volumes, and networks in one visual map. No VPN, no inbound ports.
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
@@ -643,6 +662,8 @@
 
 ## llm 
 
+- [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) - OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
+- [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great
 - [RekklesNA/ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) - Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
@@ -670,6 +691,7 @@
 
 ## mcp 
 
+- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [RekklesNA/ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) - Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.
 - [AppControlLabs/appcontrol-mcp-go](https://github.com/AppControlLabs/appcontrol-mcp-go) - AppControl MCP is a local server connecting AI agents and IDEs like Claude, Cursor, and Windsurf to system history provided by the AppControl desktop app. Ask which apps used CPU, GPU, RAM, or disk, a
 - [maxjb-xyz/blackbox](https://github.com/maxjb-xyz/blackbox) - The Forensic Journal for your Infrastructure. Written in Go for maximum impact with minimal footprint.
@@ -775,6 +797,9 @@
 
 ## others 
 
+- [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) - Two paired Claude skills · 90+ recon modules · 48 secret-regex patterns · 80+ dorks · 9 read-only credential validators · 27 attack-path templates · 5,500+ lines of structured tradecraft. Drop-in SKIL
+- [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - 
+- [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) - Claude Code statusline tool written in Rust
 - [vespo92/OPNSenseMCP](https://github.com/vespo92/OPNSenseMCP) - MCP Server for OPNSense to act as IaC proxy
 - [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
 - [anthropics/cwc-long-running-agents](https://github.com/anthropics/cwc-long-running-agents) - 
@@ -950,6 +975,7 @@
 
 ## productivity 
 
+- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 ## programming 
@@ -958,6 +984,7 @@
 
 ## prompt-engineering 
 
+- [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great
 - [jalaalrd/anti-ai-slop-writing](https://github.com/jalaalrd/anti-ai-slop-writing) - AI writing skill that eliminates detectable AI patterns. Works with Claude Code, Codex, Cursor, Gemini CLI, and 8+ other agents.
 
 ## python 
@@ -1169,6 +1196,7 @@
 
 ## terminal 
 
+- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
 - [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
@@ -1179,11 +1207,15 @@
 
 ## tui 
 
+- [regenrek/peky](https://github.com/regenrek/peky) - All your AI Agents like Claude Code, Codex CLI in a single TUI to keep things organized.
+- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
+- [jasmedia/cc-pr-reviewer](https://github.com/jasmedia/cc-pr-reviewer) - Review your GitHub PR queue with Claude Code, from a TUI
 - [devnullvoid/pvetui](https://github.com/devnullvoid/pvetui) - Terminal UI for Proxmox VE
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 
 ## typescript 
 
+- [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) - OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
 - [Enderfga/claw-orchestrator](https://github.com/Enderfga/claw-orchestrator) - Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime for claw-style agent systems. Runs standalone, with first-class OpenClaw plugin support.
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - JMAP Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source.
