@@ -72,6 +72,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [mcp](#mcp)
+- [microsoft](#microsoft)
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
@@ -178,6 +179,7 @@
 
 ## ai-agents 
 
+- [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) - OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
@@ -403,6 +405,7 @@
 
 ## docker 
 
+- [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Local glassmorphism dashboard for tablets, monitors, and digital picture frames. Drag-&-drop editor, live sync, Home Assistant, custom modules. Self-hosted, no cloud account required.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager) - A clean, self-hosted web UI for managing your Traefik reverse proxy.
 - [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas) - Live Docker & Kubernetes infrastructure visualization - containers, pods, volumes, and networks in one visual map. No VPN, no inbound ports.
@@ -581,6 +584,7 @@
 
 ## home-assistant 
 
+- [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Local glassmorphism dashboard for tablets, monitors, and digital picture frames. Drag-&-drop editor, live sync, Home Assistant, custom modules. Self-hosted, no cloud account required.
 - [FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass) - The "Third Way" for Home Assistant Automations.
 - [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine) - Home Assistant Time Machine is a web-based tool that acts as a "Time Machine" for your Home Assistant configuration.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
@@ -720,6 +724,10 @@
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
+## microsoft 
+
+- [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
+
 ## monitoring 
 
 - [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas) - Live Docker & Kubernetes infrastructure visualization - containers, pods, volumes, and networks in one visual map. No VPN, no inbound ports.
@@ -756,6 +764,7 @@
 
 ## nextjs 
 
+- [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Local glassmorphism dashboard for tablets, monitors, and digital picture frames. Drag-&-drop editor, live sync, Home Assistant, custom modules. Self-hosted, no cloud account required.
 - [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas) - Live Docker & Kubernetes infrastructure visualization - containers, pods, volumes, and networks in one visual map. No VPN, no inbound ports.
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - JMAP Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -790,7 +799,7 @@
 ## open-source 
 
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
-- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Open-source platform for file storage, sharing, collaboration, and syncing.
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [bodyast/logManager](https://github.com/bodyast/logManager) - Real-time log viewer for remote servers via SSH. Add servers, define log paths, and stream logs in your browser.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
@@ -809,6 +818,8 @@
 
 ## others 
 
+- [NeurekaSoftware/wArrden](https://github.com/NeurekaSoftware/wArrden) - [Mirror] wArrden makes it easy to maintain your Radarr and Sonarr libraries by finding missing or upgradeable content, as well as detecting and clearing stuck imports from the queue.
+- [JudoChinX/rangarr](https://github.com/JudoChinX/rangarr) - Rangarr automates and staggers media searches across your Radarr, Sonarr, and Lidarr instances.
 - [microsoft/Webwright](https://github.com/microsoft/Webwright) - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks.
 - [steipete/ReleaseBar](https://github.com/steipete/ReleaseBar) - Release freshness dashboard for open source maintainers
 - [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) - Two paired Claude skills · 90+ recon modules · 48 secret-regex patterns · 80+ dorks · 9 read-only credential validators · 27 attack-path templates · 5,500+ lines of structured tradecraft. Drop-in SKIL
@@ -834,7 +845,7 @@
 - [obra/superpowers-marketplace](https://github.com/obra/superpowers-marketplace) - Curated Claude Code plugin marketplace
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
-- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [Memento-Teams/Memento-Skills](https://github.com/Memento-Teams/Memento-Skills) - Memento-Skills: Let Agents Design Agents
 - [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) - 
 - [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) - "ClawTeam: Agent Swarm Intelligence" (One Command → Full Automation)
@@ -972,6 +983,7 @@
 
 ## postgresql 
 
+- [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Local glassmorphism dashboard for tablets, monitors, and digital picture frames. Drag-&-drop editor, live sync, Home Assistant, custom modules. Self-hosted, no cloud account required.
 - [bareos/bareos](https://github.com/bareos/bareos) - Bareos is a cross-network Open Source backup solution (licensed under AGPLv3) which preserves, archives, and recovers data from all major operating systems.
 - [I-am-PUID-0/DUMB](https://github.com/I-am-PUID-0/DUMB) - Debrid Unlimited Media Bridge
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
@@ -1005,6 +1017,7 @@
 
 ## python 
 
+- [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [av1155/houndarr](https://github.com/av1155/houndarr) - Self-hosted *arr companion for controlled missing, cutoff, and upgrade searches.
@@ -1049,6 +1062,7 @@
 
 ## react 
 
+- [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Local glassmorphism dashboard for tablets, monitors, and digital picture frames. Drag-&-drop editor, live sync, Home Assistant, custom modules. Self-hosted, no cloud account required.
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [Flixorui/flixor](https://github.com/Flixorui/flixor) - Modern cross-platform Plex client
@@ -1093,6 +1107,7 @@
 
 ## security 
 
+- [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
@@ -1113,6 +1128,7 @@
 
 ## self-hosted 
 
+- [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Local glassmorphism dashboard for tablets, monitors, and digital picture frames. Drag-&-drop editor, live sync, Home Assistant, custom modules. Self-hosted, no cloud account required.
 - [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas) - Live Docker & Kubernetes infrastructure visualization - containers, pods, volumes, and networks in one visual map. No VPN, no inbound ports.
 - [maxjb-xyz/blackbox](https://github.com/maxjb-xyz/blackbox) - The Forensic Journal for your Infrastructure. Written in Go for maximum impact with minimal footprint.
 - [av1155/houndarr](https://github.com/av1155/houndarr) - Self-hosted *arr companion for controlled missing, cutoff, and upgrade searches.
@@ -1120,7 +1136,7 @@
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
-- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Open-source platform for file storage, sharing, collaboration, and syncing.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [Aletech-Solutions/Open-Atlas-Node](https://github.com/Aletech-Solutions/Open-Atlas-Node) - Manage your local servers like cloud instances using Atlas Node
 - [trentferguson/homescreen-hero](https://github.com/trentferguson/homescreen-hero) - self-hosted Plex companion app with homescreen management, server insights, and useful tools, all in a sleek web dashboard
@@ -1233,6 +1249,7 @@
 
 ## typescript 
 
+- [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Local glassmorphism dashboard for tablets, monitors, and digital picture frames. Drag-&-drop editor, live sync, Home Assistant, custom modules. Self-hosted, no cloud account required.
 - [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) - OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
 - [Enderfga/claw-orchestrator](https://github.com/Enderfga/claw-orchestrator) - Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime for claw-style agent systems. Runs standalone, with first-class OpenClaw plugin support.
