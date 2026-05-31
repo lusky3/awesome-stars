@@ -819,7 +819,7 @@
 ## others 
 
 - [NeurekaSoftware/wArrden](https://github.com/NeurekaSoftware/wArrden) - [Mirror] wArrden makes it easy to maintain your Radarr and Sonarr libraries by finding missing or upgradeable content, as well as detecting and clearing stuck imports from the queue.
-- [JudoChinX/rangarr](https://github.com/JudoChinX/rangarr) - Rangarr automates and staggers media searches across your Radarr, Sonarr, and Lidarr instances.
+- [JudoChinX/rangarr](https://github.com/JudoChinX/rangarr) - Rangarr automates and staggers media searches across your Radarr, Sonarr, Lidarr, Readarr, and Whisparr instances.
 - [microsoft/Webwright](https://github.com/microsoft/Webwright) - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks.
 - [steipete/ReleaseBar](https://github.com/steipete/ReleaseBar) - Release freshness dashboard for open source maintainers
 - [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) - Two paired Claude skills · 90+ recon modules · 48 secret-regex patterns · 80+ dorks · 9 read-only credential validators · 27 attack-path templates · 5,500+ lines of structured tradecraft. Drop-in SKIL
