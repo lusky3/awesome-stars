@@ -46,6 +46,7 @@
 - [finance](#finance)
 - [flask](#flask)
 - [flutter](#flutter)
+- [framework](#framework)
 - [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
@@ -56,6 +57,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [homebrew](#homebrew)
+- [html](#html)
 - [http](#http)
 - [https](#https)
 - [iot](#iot)
@@ -119,6 +121,7 @@
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [terminal](#terminal)
+- [text-to-speech](#text-to-speech)
 - [tui](#tui)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -138,6 +141,7 @@
 
 ## agent 
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL inje
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [alexdcd/AI-Context-OS](https://github.com/alexdcd/AI-Context-OS) - Persistent, inspectable memory that grows and refines over time. Built on files. Owned by you.
 - [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work
@@ -160,6 +164,7 @@
 
 ## ai 
 
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Commit
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
@@ -335,6 +340,7 @@
 
 ## code-review 
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL inje
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [jasmedia/cc-pr-reviewer](https://github.com/jasmedia/cc-pr-reviewer) - Review your GitHub PR queue with Claude Code, from a TUI
 - [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Commit
@@ -506,6 +512,10 @@
 
 - [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform Plex & Jellyfin client built with Flutter
 
+## framework 
+
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+
 ## generative-ai 
 
 - [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Commit
@@ -602,6 +612,10 @@
 
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 
+## html 
+
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+
 ## http 
 
 - [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
@@ -680,6 +694,7 @@
 
 ## llm 
 
+- [OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, 
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) - OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
 - [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great
@@ -711,6 +726,7 @@
 
 ## mcp 
 
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential gateway with a built-in vault. give your AI agents access to services without exposing keys.
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
@@ -831,7 +847,8 @@
 
 ## others 
 
-- [NeurekaSoftware/wArrden](https://github.com/NeurekaSoftware/wArrden) - [Mirror] wArrden makes it easy to maintain your Radarr and Sonarr libraries by finding missing or upgradeable content, as well as detecting and clearing stuck imports from the queue.
+- [laravel/moat](https://github.com/laravel/moat) - Moat reviews the security posture of your GitHub organization and repositories, then surfaces recommendations to consider.
+- [NeurekaSoftware/wArrden](https://github.com/NeurekaSoftware/wArrden) - [Mirror] wArrden makes it easy to maintain your media libraries by finding missing or upgradeable content, as well as detecting and clearing stuck imports from supported arr queues.
 - [JudoChinX/rangarr](https://github.com/JudoChinX/rangarr) - Rangarr automates and staggers media searches across your Radarr, Sonarr, Lidarr, Readarr, and Whisparr instances.
 - [microsoft/Webwright](https://github.com/microsoft/Webwright) - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks.
 - [steipete/ReleaseBar](https://github.com/steipete/ReleaseBar) - Release freshness dashboard for open source maintainers
@@ -1259,6 +1276,10 @@
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 
+## text-to-speech 
+
+- [OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, 
+
 ## tui 
 
 - [regenrek/peky](https://github.com/regenrek/peky) - All your AI Agents like Claude Code, Codex CLI in a single TUI to keep things organized.
@@ -1269,6 +1290,7 @@
 
 ## typescript 
 
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Self-hosted home display — part photo frame, part family board, part Home Assistant dashboard. Drag-&-drop, live sync, Immich wallpapers. No cloud.
 - [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) - OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
@@ -1301,6 +1323,7 @@
 
 ## video 
 
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 
 ## vim 
