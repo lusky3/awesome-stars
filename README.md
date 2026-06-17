@@ -86,7 +86,7 @@
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [regenrek/peky](https://github.com/regenrek/peky) - All your AI Agents like Claude Code, Codex CLI in a single TUI to keep things organized.
-- [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Commit
+- [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Git Commit
 - [AppControlLabs/appcontrol-mcp-go](https://github.com/AppControlLabs/appcontrol-mcp-go) - AppControl MCP is a local server connecting AI agents and IDEs like Claude, Cursor, and Windsurf to system history provided by the AppControl desktop app. Ask which apps used CPU, GPU, RAM, or disk, a
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [xteve-project/xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV
@@ -164,7 +164,6 @@
 - [nxzai/NextExplorer](https://github.com/nxzai/NextExplorer) - Web based File Explorer
 - [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine) - Home Assistant Time Machine is a web-based tool that acts as a "Time Machine" for your Home Assistant configuration.
 - [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek) - Easily access your Docker container web interfaces and keep them up to date — across all your hosts.
-- [Phantom8015/Specters](https://github.com/Phantom8015/Specters) - A linux web interface
 - [bodyast/logManager](https://github.com/bodyast/logManager) - Real-time log viewer for remote servers via SSH. Add servers, define log paths, and stream logs in your browser.
 - [robinkarlberg/transfer.zip-web](https://github.com/robinkarlberg/transfer.zip-web) - A self-hostable complete file-sharing solution that focuses on reliability, security and ease of use.
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
