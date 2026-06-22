@@ -316,7 +316,7 @@
 - [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - Open-source AI pair programming for desktop: a Mentor + Executor agent cross-check each other's code to catch AI hallucinations. Works with Claude Code, Codex, Gemini & opencode. macOS / Windows / Lin
 - [jonwiggins/optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agents swarms, from task to merged PR.
 - [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
@@ -471,7 +471,7 @@
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby..
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby.
 - [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
@@ -746,7 +746,7 @@
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [Enderfga/claw-orchestrator](https://github.com/Enderfga/claw-orchestrator) - Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime for claw-style agent systems. Runs standalone, with first-class OpenClaw plugin support.
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [vinkius-labs/mcpfusion](https://github.com/vinkius-labs/mcpfusion) - MCP Fusion - The TypeScript framework for secure MCP servers.
 - [samanhappy/mcphub](https://github.com/samanhappy/mcphub) - A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into separate endpoints with flexible routing strategies.
@@ -831,7 +831,7 @@
 ## open-source 
 
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
-- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Open-source platform for file storage, sharing, collaboration, and syncing.
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Sovereign platform for file storage, sharing, synchronization, and collaboration.
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [bodyast/logManager](https://github.com/bodyast/logManager) - Real-time log viewer for remote servers via SSH. Add servers, define log paths, and stream logs in your browser.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
@@ -1192,7 +1192,7 @@
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
-- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Open-source platform for file storage, sharing, collaboration, and syncing.
+- [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Sovereign platform for file storage, sharing, synchronization, and collaboration.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [Aletech-Solutions/Open-Atlas-Node](https://github.com/Aletech-Solutions/Open-Atlas-Node) - Manage your local servers like cloud instances using Atlas Node
 - [trentferguson/homescreen-hero](https://github.com/trentferguson/homescreen-hero) - self-hosted Plex companion app with homescreen management, server insights, and useful tools, all in a sleek web dashboard
