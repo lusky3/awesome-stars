@@ -150,6 +150,7 @@
 
 ## JavaScript 
 
+- [nikitadoudikov/claude-pulse](https://github.com/nikitadoudikov/claude-pulse) - Local, zero-dependency dashboard for Claude Code: live token usage and context, lost-session recovery, full-text search, and approve tool calls from your phone.
 - [agent0ai/space-agent](https://github.com/agent0ai/space-agent) - The agent that re-shapes the Space
 - [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
