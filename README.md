@@ -163,7 +163,6 @@
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [sjlu/popular-movies](https://github.com/sjlu/popular-movies) - Tries to create a list of popular movies based on a series of heuristics
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
-- [supermemoryai/claude-supermemory](https://github.com/supermemoryai/claude-supermemory) - Enable Claude Code to learn in real-time, update it's knowledge, and grow with you, using supermemory.
 - [Aletech-Solutions/Open-Atlas-Node](https://github.com/Aletech-Solutions/Open-Atlas-Node) - Manage your local servers like cloud instances using Atlas Node
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [nxzai/NextExplorer](https://github.com/nxzai/NextExplorer) - Web based File Explorer
@@ -254,6 +253,8 @@
 
 ## Python 
 
+- [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
+- [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven) - The memory-first self-improving agent harness built on EverOS.
 - [flowful-ai/cad-skill](https://github.com/flowful-ai/cad-skill) - Claude Code skill for parametric 3D-printable model generation with CadQuery
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [kstevica/captain-claw](https://github.com/kstevica/captain-claw) - AI agent with multi-agent orchestration, autonomous cognitive systems, and a full management dashboard
@@ -302,7 +303,7 @@
 - [I-am-PUID-0/DUMB](https://github.com/I-am-PUID-0/DUMB) - Debrid Unlimited Media Bridge
 - [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
 - [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [Dacid99/Eonvelope](https://github.com/Dacid99/Eonvelope) - Preserve your emails with this open-source self-hostable email archive! This repository is a read-only mirror, please go to the gitlab repo at https://gitlab.com/Dacid99/eonvelope to contribute code.
 - [sbcrumb/chronarr](https://github.com/sbcrumb/chronarr) - 
@@ -438,6 +439,7 @@
 
 ## TypeScript 
 
+- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 - [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%
 - [ruvnet/metaharness](https://github.com/ruvnet/metaharness) - 🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex
