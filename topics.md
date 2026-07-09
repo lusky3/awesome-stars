@@ -185,6 +185,7 @@
 
 ## ai 
 
+- [Soutar97/instagui](https://github.com/Soutar97/instagui) - Turn any CLI into a web GUI with one command
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [Gitlawb/zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
 - [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven) - The memory-first self-improving agent harness built on EverOS.
@@ -217,6 +218,7 @@
 
 ## ai-agents 
 
+- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [stevesolun/ctx](https://github.com/stevesolun/ctx) - Not an Amazon-style catalog or marketplace. ctx is a recommendation layer: bring your org tools or use the shipped graph to load the right skills, agents, MCPs, and harnesses only for the current dev 
 - [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
@@ -237,7 +239,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - [yzhao062/anywhere-agents](https://github.com/yzhao062/anywhere-agents) - One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard).
-- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [lucasastorian/llmwiki](https://github.com/lucasastorian/llmwiki) - Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - Open-source AI pair programming for desktop: a Mentor + Executor agent cross-check each other's code to catch AI hallucinations. Works with Claude Code, Codex, Gemini & opencode. macOS / Windows / Lin
@@ -306,7 +308,7 @@
 
 ## azure 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 
 ## bash 
@@ -344,6 +346,7 @@
 
 ## claude 
 
+- [Soutar97/instagui](https://github.com/Soutar97/instagui) - Turn any CLI into a web GUI with one command
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [stevesolun/ctx](https://github.com/stevesolun/ctx) - Not an Amazon-style catalog or marketplace. ctx is a recommendation layer: bring your org tools or use the shipped graph to load the right skills, agents, MCPs, and harnesses only for the current dev 
 - [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven) - The memory-first self-improving agent harness built on EverOS.
@@ -398,6 +401,7 @@
 
 ## cli 
 
+- [Soutar97/instagui](https://github.com/Soutar97/instagui) - Turn any CLI into a web GUI with one command
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [Gitlawb/zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
@@ -468,6 +472,7 @@
 
 ## developer-tools 
 
+- [Soutar97/instagui](https://github.com/Soutar97/instagui) - Turn any CLI into a web GUI with one command
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [stevesolun/ctx](https://github.com/stevesolun/ctx) - Not an Amazon-style catalog or marketplace. ctx is a recommendation layer: bring your org tools or use the shipped graph to load the right skills, agents, MCPs, and harnesses only for the current dev 
 - [Gitlawb/zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
@@ -618,7 +623,7 @@
 
 - [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
 - [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Git Commit
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Scan the world (for secrets)
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -668,6 +673,7 @@
 
 ## gui 
 
+- [Soutar97/instagui](https://github.com/Soutar97/instagui) - Turn any CLI into a web GUI with one command
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [lucasdillmann/nginx-ignition](https://github.com/lucasdillmann/nginx-ignition) - An user interface for the nginx web server, aimed at developers and enthusiasts that don't want to manage configuration files manually
 - [akshinmustafayev/EasyJob](https://github.com/akshinmustafayev/EasyJob) - :hammer: EasyJob - keep and execute your PowerShell and BAT scripts from one interface
@@ -732,7 +738,7 @@
 
 ## ipfs 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 
 ## java 
 
@@ -988,7 +994,7 @@
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - 
 - [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) - Claude Code statusline tool written in Rust
 - [vespo92/OPNSenseMCP](https://github.com/vespo92/OPNSenseMCP) - MCP Server for OPNSense to act as IaC proxy
-- [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
+- [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps
 - [anthropics/cwc-long-running-agents](https://github.com/anthropics/cwc-long-running-agents) - 
 - [jdx/aube](https://github.com/jdx/aube) - A fast Node.js package manager
 - [xteve-project/xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV
@@ -1460,7 +1466,7 @@
 - [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Self-hosted home display — part photo frame, part family board, part Home Assistant dashboard. Drag-&-drop, live sync, Immich wallpapers. No cloud.
 - [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) - OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
 - [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MI
-- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [Enderfga/claw-orchestrator](https://github.com/Enderfga/claw-orchestrator) - Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime for claw-style agent systems. Runs standalone, with first-class OpenClaw plugin support.
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - JMAP Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source.
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
