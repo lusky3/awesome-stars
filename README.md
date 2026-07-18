@@ -272,7 +272,7 @@
 - [stevesolun/ctx](https://github.com/stevesolun/ctx) - Not an Amazon-style catalog or marketplace. ctx is a recommendation layer: bring your org tools or use the shipped graph to load the right skills, agents, MCPs, and harnesses only for the current dev 
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
-- [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven) - The memory-first self-improving agent harness built on EverOS.
+- [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven) - The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and reasoning.
 - [flowful-ai/cad-skill](https://github.com/flowful-ai/cad-skill) - Claude Code skill for parametric 3D-printable model generation with CadQuery
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [kstevica/captain-claw](https://github.com/kstevica/captain-claw) - Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnostic and local-friendly.
