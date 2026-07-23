@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Adblock Filter List](#adblock-filter-list)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -38,13 +39,17 @@
 - [Vue](#vue)
 - [Zig](#zig)
 
+## Adblock Filter List 
+
+- [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist) - Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
+
 ## C 
 
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [win4r/codebase-memory-mcp-pro](https://github.com/win4r/codebase-memory-mcp-pro) - Community fork of DeusData/codebase-memory-mcp (MIT) — incremental-reindex CALLS-edge fix + 9 integrated upstream PRs. Pure-C code knowledge-graph MCP server.
 - [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
-- [SteamGridDB/SGDBoop](https://github.com/SteamGridDB/SGDBoop) - A program used for applying custom artwork to Steam, using SteamGridDB. Supports both Windows and Linux, written completely in C.
+- [SteamGridDB/SGDBoop](https://github.com/SteamGridDB/SGDBoop) - A program used for applying custom artwork to Steam using SteamGridDB. Supports Windows, Linux and MacOS written completely in C.
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
 - [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -150,7 +155,6 @@
 - [chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager) - A clean, self-hosted web UI for managing your Traefik reverse proxy.
 - [samosa-ai-com/server-services-manager](https://github.com/samosa-ai-com/server-services-manager) - A robust, web-based dashboard for managing server services and accessing terminals in real-time. Features a modern dark-themed UI, multi-tab terminal support, and live log monitoring via WebSockets.
 - [PyroghostX/ForgottenMovies](https://github.com/PyroghostX/ForgottenMovies) - App built to remind users about media they requested but never watched. Requires Plex, Tautulli and Seerr.
-- [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist) - Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
 
 ## Java 
 
