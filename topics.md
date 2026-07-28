@@ -185,7 +185,7 @@
 
 ## agents 
 
-- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Not an Amazon-style catalog or marketplace. ctx is a recommendation layer: bring your org tools or use the shipped graph to load the right skills, agents, MCPs, and harnesses only for the current dev 
+- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Repo-aware recommendations for skills, agents, MCP servers, and model harnesses. Use your own inventory or the shipped 79,958-node graph with 68,494 skills, 467 agents, 10,790 MCPs, and 207 harnesses.
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
@@ -236,7 +236,7 @@
 
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
-- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Not an Amazon-style catalog or marketplace. ctx is a recommendation layer: bring your org tools or use the shipped graph to load the right skills, agents, MCPs, and harnesses only for the current dev 
+- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Repo-aware recommendations for skills, agents, MCP servers, and model harnesses. Use your own inventory or the shipped 79,958-node graph with 68,494 skills, 467 agents, 10,790 MCPs, and 207 harnesses.
 - [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
 - [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven) - The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and reasoning.
 - [kstevica/captain-claw](https://github.com/kstevica/captain-claw) - Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnostic and local-friendly.
@@ -293,7 +293,7 @@
 ## automation 
 
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
-- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Not an Amazon-style catalog or marketplace. ctx is a recommendation layer: bring your org tools or use the shipped graph to load the right skills, agents, MCPs, and harnesses only for the current dev 
+- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Repo-aware recommendations for skills, agents, MCP servers, and model harnesses. Use your own inventory or the shipped 79,958-node graph with 68,494 skills, 467 agents, 10,790 MCPs, and 207 harnesses.
 - [komal-SkyNET/claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant) - Claude Code skill to supercharge and manage all Home Assistant workflows
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [RekklesNA/ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) - Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.
@@ -371,7 +371,7 @@
 
 - [Soutar97/instagui](https://github.com/Soutar97/instagui) - Turn any CLI into a web GUI with one command
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Not an Amazon-style catalog or marketplace. ctx is a recommendation layer: bring your org tools or use the shipped graph to load the right skills, agents, MCPs, and harnesses only for the current dev 
+- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Repo-aware recommendations for skills, agents, MCP servers, and model harnesses. Use your own inventory or the shipped 79,958-node graph with 68,494 skills, 467 agents, 10,790 MCPs, and 207 harnesses.
 - [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven) - The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and reasoning.
 - [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - multi-session tool for claude code, cursor, codex, gemini
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
@@ -393,7 +393,7 @@
 ## claude-code 
 
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Not an Amazon-style catalog or marketplace. ctx is a recommendation layer: bring your org tools or use the shipped graph to load the right skills, agents, MCPs, and harnesses only for the current dev 
+- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Repo-aware recommendations for skills, agents, MCP servers, and model harnesses. Use your own inventory or the shipped 79,958-node graph with 68,494 skills, 467 agents, 10,790 MCPs, and 207 harnesses.
 - [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - multi-session tool for claude code, cursor, codex, gemini
 - [komal-SkyNET/claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant) - Claude Code skill to supercharge and manage all Home Assistant workflows
 - [nikitadoudikov/claude-pulse](https://github.com/nikitadoudikov/claude-pulse) - Local, zero-dependency dashboard for Claude Code: live token usage and context, lost-session recovery, full-text search, and approve tool calls from your phone.
@@ -499,7 +499,7 @@
 
 - [Soutar97/instagui](https://github.com/Soutar97/instagui) - Turn any CLI into a web GUI with one command
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Not an Amazon-style catalog or marketplace. ctx is a recommendation layer: bring your org tools or use the shipped graph to load the right skills, agents, MCPs, and harnesses only for the current dev 
+- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Repo-aware recommendations for skills, agents, MCP servers, and model harnesses. Use your own inventory or the shipped 79,958-node graph with 68,494 skills, 467 agents, 10,790 MCPs, and 207 harnesses.
 - [Gitlawb/zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
 - [nikitadoudikov/claude-pulse](https://github.com/nikitadoudikov/claude-pulse) - Local, zero-dependency dashboard for Claude Code: live token usage and context, lost-session recovery, full-text search, and approve tool calls from your phone.
 - [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.
@@ -842,7 +842,7 @@
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
-- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Not an Amazon-style catalog or marketplace. ctx is a recommendation layer: bring your org tools or use the shipped graph to load the right skills, agents, MCPs, and harnesses only for the current dev 
+- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Repo-aware recommendations for skills, agents, MCP servers, and model harnesses. Use your own inventory or the shipped 79,958-node graph with 68,494 skills, 467 agents, 10,790 MCPs, and 207 harnesses.
 - [Gitlawb/zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
 - [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven) - The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and reasoning.
 - [kstevica/captain-claw](https://github.com/kstevica/captain-claw) - Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnostic and local-friendly.
@@ -885,10 +885,11 @@
 
 ## mcp 
 
+- [ashwwwin/furi](https://github.com/ashwwwin/furi) - CLI & API for MCP management
 - [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
-- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Not an Amazon-style catalog or marketplace. ctx is a recommendation layer: bring your org tools or use the shipped graph to load the right skills, agents, MCPs, and harnesses only for the current dev 
+- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Repo-aware recommendations for skills, agents, MCP servers, and model harnesses. Use your own inventory or the shipped 79,958-node graph with 68,494 skills, 467 agents, 10,790 MCPs, and 207 harnesses.
 - [Gitlawb/zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
 - [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
@@ -991,7 +992,7 @@
 
 ## obsidian 
 
-- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Not an Amazon-style catalog or marketplace. ctx is a recommendation layer: bring your org tools or use the shipped graph to load the right skills, agents, MCPs, and harnesses only for the current dev 
+- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Repo-aware recommendations for skills, agents, MCP servers, and model harnesses. Use your own inventory or the shipped 79,958-node graph with 68,494 skills, 467 agents, 10,790 MCPs, and 207 harnesses.
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
 
 ## obsidian-plugin 
