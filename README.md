@@ -45,6 +45,7 @@
 
 ## C 
 
+- [LongQT-sea/OpenCore-ISO](https://github.com/LongQT-sea/OpenCore-ISO) - A properly configured OpenCore-ISO image for Proxmox VE and QEMU/KVM - Support Mac OS X 10.4 to macOS 26
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [win4r/codebase-memory-mcp-pro](https://github.com/win4r/codebase-memory-mcp-pro) - Community fork of DeusData/codebase-memory-mcp (MIT) — incremental-reindex CALLS-edge fix + 9 integrated upstream PRs. Pure-C code knowledge-graph MCP server.
 - [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
@@ -167,6 +168,8 @@
 
 ## JavaScript 
 
+- [ldegio/agtop](https://github.com/ldegio/agtop) - top-style TUI for monitoring AI coding agent sessions
+- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [aeonfun/opendia](https://github.com/aeonfun/opendia) - Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox.
 - [maathimself/mailflow](https://github.com/maathimself/mailflow) - A self-hosted, unified webmail client.
@@ -347,6 +350,7 @@
 - [steveharsant/purgarr](https://github.com/steveharsant/purgarr) - Plunder the best, purge the rest!
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [Kometa-Team/Quickstart](https://github.com/Kometa-Team/Quickstart) - UI wrapper to run Kometa and ImageMaid
 - [harshhome/diun-boost](https://github.com/harshhome/diun-boost) - diun-boost automatically generates DIUN configuration with smart version matching and adds a lightweight dashboard for reviewing pending container image updates.
 - [nichtlegacy/PlexWatch](https://github.com/nichtlegacy/PlexWatch) - PlexWatch is a Discord bot that provides a real-time dashboard for your Plex media server, featuring active stream monitoring, SABnzbd download tracking, and server uptime stats.
@@ -469,6 +473,7 @@
 
 ## TypeScript 
 
+- [withastro/triagebot-action](https://github.com/withastro/triagebot-action) - A GitHub Action for issue triage
 - [Autoloops/greplica](https://github.com/Autoloops/greplica) - Persistent, searchable engineering memory for AI coding agents. Saves ~50% tokens and ~30% time while planning
 - [autobrr/netronome](https://github.com/autobrr/netronome) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
 - [NanoNets/Graft](https://github.com/NanoNets/Graft) - Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.
@@ -538,7 +543,6 @@
 - [RA341/dockman](https://github.com/RA341/dockman) - Yet another docker compose manager for homelabs
 - [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash) - An open-source dashboard designed to manage your server/homelab applications and services.
 - [jamcalli/Pulsarr](https://github.com/jamcalli/Pulsarr) - Pulsarr: Real-time Plex watchlist monitoring and content acquisition tool. Seamlessly sync Plex watchlists with Sonarr and Radarr, featuring intelligent predicated content routing, multi-instance supp
-- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [undernightcore/dockerizalo](https://github.com/undernightcore/dockerizalo) - The simplest deployment platform made for self-hosters.
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
