@@ -342,10 +342,12 @@
 
 ## aws 
 
+- [floci-io/floci-ui](https://github.com/floci-io/floci-ui) - Any Cloud. Locally. - The local cloud console for Floci, an AWS-Console-style UI for your local multi-cloud runtime.
 - [prod-forge/backend](https://github.com/prod-forge/backend) - Prod Forge is an open-source reference that shows how to build and operate a production-ready system: AI-assisted development, quality gates, CI/CD, infrastructure, observability, migrations, and roll
 
 ## azure 
 
+- [floci-io/floci-ui](https://github.com/floci-io/floci-ui) - Any Cloud. Locally. - The local cloud console for Floci, an AWS-Console-style UI for your local multi-cloud runtime.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 
