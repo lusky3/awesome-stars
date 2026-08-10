@@ -482,6 +482,7 @@
 
 ## TypeScript 
 
+- [floci-io/floci-ui](https://github.com/floci-io/floci-ui) - Any Cloud. Locally. - The local cloud console for Floci, an AWS-Console-style UI for your local multi-cloud runtime.
 - [prod-forge/backend](https://github.com/prod-forge/backend) - Prod Forge is an open-source reference that shows how to build and operate a production-ready system: AI-assisted development, quality gates, CI/CD, infrastructure, observability, migrations, and roll
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [joelhooks/opencode-config](https://github.com/joelhooks/opencode-config) - Personal OpenCode configuration - commands, tools, agents, knowledge
