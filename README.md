@@ -283,6 +283,7 @@
 
 ## Python 
 
+- [zksha/alma](https://github.com/zksha/alma) - ALMA (Automated meta-Learning of Memory designs for Agentic systems) is a framework that meta-learns memory designs to replace human-engineered designs for agentic system.
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex), backed by Markdown and Milvus.
 - [yeates/PromptFix](https://github.com/yeates/PromptFix) - [NeurIPS 24] PromptFix: You Prompt and We Fix the Photo
