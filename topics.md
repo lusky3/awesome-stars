@@ -218,6 +218,7 @@
 
 ## ai 
 
+- [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 🏠 Manage your homelab from chat. Single binary, zero dependencies.
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
 - [aviadr1/claude-meta](https://github.com/aviadr1/claude-meta) - Self-improving AI: Transform CLAUDE.md into a learning system. One prompt makes Claude learn from every mistake. Meta-rules + reflection = continuous improvement.
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
@@ -440,7 +441,7 @@
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [stevesolun/ctx](https://github.com/stevesolun/ctx) - Repo-aware recommendations for skills, agents, MCP servers, and model harnesses. Use your own inventory or the shipped 79,958-node graph with 68,494 skills, 467 agents, 10,790 MCPs, and 207 harnesses.
 - [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven) - The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and reasoning.
-- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - terminal-native ADE for claude code, cursor, codex, opencode and more
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - terminal-native ADE for claude code, cursor, codex, opencode, grok and more
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [nikitadoudikov/claude-pulse](https://github.com/nikitadoudikov/claude-pulse) - Local, zero-dependency dashboard for Claude Code: live token usage and context, lost-session recovery, full-text search, and approve tool calls from your phone.
 - [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.
@@ -479,7 +480,7 @@
 - [NanoNets/Graft](https://github.com/NanoNets/Graft) - Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [stevesolun/ctx](https://github.com/stevesolun/ctx) - Repo-aware recommendations for skills, agents, MCP servers, and model harnesses. Use your own inventory or the shipped 79,958-node graph with 68,494 skills, 467 agents, 10,790 MCPs, and 207 harnesses.
-- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - terminal-native ADE for claude code, cursor, codex, opencode and more
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - terminal-native ADE for claude code, cursor, codex, opencode, grok and more
 - [komal-SkyNET/claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant) - Claude Code skill to supercharge and manage all Home Assistant workflows
 - [nikitadoudikov/claude-pulse](https://github.com/nikitadoudikov/claude-pulse) - Local, zero-dependency dashboard for Claude Code: live token usage and context, lost-session recovery, full-text search, and approve tool calls from your phone.
 - [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.
@@ -515,6 +516,7 @@
 
 ## cli 
 
+- [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 🏠 Manage your homelab from chat. Single binary, zero dependencies.
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [FlorianBruniaux/ccboard](https://github.com/FlorianBruniaux/ccboard) - Monitor Claude Code sessions, costs, config, hooks, agents & MCP servers from a single Rust binary — TUI (9 tabs) + Web interface with live process tracking, budget alerts, and 30-day forecasting
@@ -632,6 +634,7 @@
 
 ## devops 
 
+- [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 🏠 Manage your homelab from chat. Single binary, zero dependencies.
 - [ManuelR-T/dockscope](https://github.com/ManuelR-T/dockscope) - Visual Docker dashboard with a 3D dependency graph, live metrics, logs, terminal, and container actions
 - [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) - OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
@@ -663,6 +666,7 @@
 
 ## docker 
 
+- [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 🏠 Manage your homelab from chat. Single binary, zero dependencies.
 - [samuelloranger/labby](https://github.com/samuelloranger/labby) - Self-hosted homelab dashboard: Widgets, live Docker stats, and real-time SSE updates. Built with Svelte + Bun.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [prod-forge/backend](https://github.com/prod-forge/backend) - Prod Forge is an open-source reference that shows how to build and operate a production-ready system: AI-assisted development, quality gates, CI/CD, infrastructure, observability, migrations, and roll
@@ -793,6 +797,7 @@
 
 ## go 
 
+- [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 🏠 Manage your homelab from chat. Single binary, zero dependencies.
 - [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
 - [autobrr/netronome](https://github.com/autobrr/netronome) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
@@ -811,6 +816,7 @@
 
 ## golang 
 
+- [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 🏠 Manage your homelab from chat. Single binary, zero dependencies.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [autobrr/netronome](https://github.com/autobrr/netronome) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
@@ -1044,6 +1050,7 @@
 
 ## mcp 
 
+- [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 🏠 Manage your homelab from chat. Single binary, zero dependencies.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) - An official Qdrant Model Context Protocol (MCP) server implementation
 - [harshkedia177/axon](https://github.com/harshkedia177/axon) - Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.
@@ -1098,6 +1105,7 @@
 
 ## monitoring 
 
+- [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 🏠 Manage your homelab from chat. Single binary, zero dependencies.
 - [FlorianBruniaux/ccboard](https://github.com/FlorianBruniaux/ccboard) - Monitor Claude Code sessions, costs, config, hooks, agents & MCP servers from a single Rust binary — TUI (9 tabs) + Web interface with live process tracking, budget alerts, and 30-day forecasting
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [ldegio/agtop](https://github.com/ldegio/agtop) - top-style TUI for monitoring AI coding agent sessions
@@ -1230,6 +1238,7 @@
 
 ## others 
 
+- [MeisnerDan/mission-control](https://github.com/MeisnerDan/mission-control) - Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents.
 - [janpuc/browserr](https://github.com/janpuc/browserr) - A self-hosted, Netflix-style discovery front-end for your media stack.
 - [severity1/claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver) - Intelligent prompt improver hook for Claude Code. Type vibes, ship precision.
 - [zksha/alma](https://github.com/zksha/alma) - ALMA (Automated meta-Learning of Memory designs for Agentic systems) is a framework that meta-learns memory designs to replace human-engineered designs for agentic system.
@@ -1529,6 +1538,7 @@
 
 ## raspberry-pi 
 
+- [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 🏠 Manage your homelab from chat. Single binary, zero dependencies.
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [epoupon/fileshelter](https://github.com/epoupon/fileshelter) - FileShelter is a “one-click” file sharing web application
 
