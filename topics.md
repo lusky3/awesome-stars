@@ -302,7 +302,7 @@
 - [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Git Commit
 - [AppControlLabs/appcontrol-mcp-go](https://github.com/AppControlLabs/appcontrol-mcp-go) - AppControl MCP is a local server connecting AI agents and IDEs like Claude, Cursor, and Windsurf to system history provided by the AppControl desktop app. Ask which apps used CPU, GPU, RAM, or disk, a
 - [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) - Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - [yzhao062/anywhere-agents](https://github.com/yzhao062/anywhere-agents) - One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard).
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
@@ -483,6 +483,7 @@
 
 ## claude-code 
 
+- [benmaster82/Kwipu](https://github.com/benmaster82/Kwipu) - Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any folder of Markdown files. Extracts entity-relation triples from wikilinks & YAM
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [josstei/maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, acce
@@ -533,7 +534,7 @@
 - [jonwiggins/optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agent swarms, from task to merged PR.
 - [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
-- [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code review
+- [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +27 more). Desktop, web, mobile, and cloud agents.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 
@@ -1033,6 +1034,7 @@
 
 ## llm 
 
+- [benmaster82/Kwipu](https://github.com/benmaster82/Kwipu) - Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any folder of Markdown files. Extracts entity-relation triples from wikilinks & YAM
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [abduznik/Git-Alchemist](https://github.com/abduznik/Git-Alchemist) - Transform Git history: rewrite, clean, and optimize your repositories with ease.
@@ -1061,7 +1063,7 @@
 - [Intrect-io/OpenSwarm](https://github.com/Intrect-io/OpenSwarm) - OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
 - [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ lines.
 - [RekklesNA/ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) - Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [lucasastorian/llmwiki](https://github.com/lucasastorian/llmwiki) - Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !
 - [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
@@ -1095,12 +1097,14 @@
 
 ## markdown 
 
+- [benmaster82/Kwipu](https://github.com/benmaster82/Kwipu) - Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any folder of Markdown files. Extracts entity-relation triples from wikilinks & YAM
 - [scaccogatto/okf-skills](https://github.com/scaccogatto/okf-skills) - The OKF toolkit for Claude Code — author, maintain, validate & visualize Open Knowledge Format bundles. Plugin, agent skills, and a GitHub Action.
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 
 ## mcp 
 
+- [benmaster82/Kwipu](https://github.com/benmaster82/Kwipu) - Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any folder of Markdown files. Extracts entity-relation triples from wikilinks & YAM
 - [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
 - [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL noteb
 - [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 🏠 Tells you what changed on your server — only what's worth telling. Single Go binary, no daemon, no database, MCP server built in.
@@ -1253,6 +1257,7 @@
 
 ## obsidian 
 
+- [benmaster82/Kwipu](https://github.com/benmaster82/Kwipu) - Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any folder of Markdown files. Extracts entity-relation triples from wikilinks & YAM
 - [stevesolun/ctx](https://github.com/stevesolun/ctx) - Repo-aware recommendations for skills, agents, MCP servers, and model harnesses. Use your own inventory or the shipped 79,958-node graph with 68,494 skills, 467 agents, 10,790 MCPs, and 207 harnesses.
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
 
@@ -1555,7 +1560,7 @@
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 - [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) - Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [av1155/houndarr](https://github.com/av1155/houndarr) - Self-hosted *arr companion for controlled missing, cutoff, and upgrade searches.
 - [bit-team/backintime](https://github.com/bit-team/backintime) - A comfortable and well-configurable graphical Frontend for incremental backups, with a command-line version also available. Modified files are transferred, while unchanged files are linked to the new 
@@ -1594,6 +1599,7 @@
 
 ## rag 
 
+- [benmaster82/Kwipu](https://github.com/benmaster82/Kwipu) - Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any folder of Markdown files. Extracts entity-relation triples from wikilinks & YAM
 - [NanoNets/docext](https://github.com/NanoNets/docext) - An on-premises, OCR-free unstructured data extraction, markdown conversion and benchmarking toolkit. (https://idp-leaderboard.org/)
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
