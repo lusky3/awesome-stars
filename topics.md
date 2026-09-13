@@ -179,6 +179,7 @@
 
 ## agent 
 
+- [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) - The skill layer for AI agents: npm for AI Agent Skills.
 - [agentic-in/inferoa](https://github.com/agentic-in/inferoa) - Inference-native Tokenmaxxing Agent Harness for Loop Engineering
 - [truefoundry/trueforge](https://github.com/truefoundry/trueforge) - The open-source agent harness - the runtime layer that turns an LLM into a working agent.
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
@@ -196,6 +197,7 @@
 
 ## agent-skills 
 
+- [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) - The skill layer for AI agents: npm for AI Agent Skills.
 - [scaccogatto/okf-skills](https://github.com/scaccogatto/okf-skills) - The OKF toolkit for Claude Code — author, maintain, validate & visualize Open Knowledge Format bundles. Plugin, agent skills, and a GitHub Action.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
@@ -269,6 +271,7 @@
 
 ## ai-agents 
 
+- [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) - The skill layer for AI agents: npm for AI Agent Skills.
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [josstei/maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, acce
@@ -283,7 +286,7 @@
 - [ldegio/agtop](https://github.com/ldegio/agtop) - top-style TUI for monitoring AI coding agent sessions
 - [trailhq/Graft](https://github.com/trailhq/Graft) - Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [stevesolun/ctx](https://github.com/stevesolun/ctx) - Repo-aware recommendations for skills, agents, MCP servers, and model harnesses. Use your own inventory or the shipped 79,958-node graph with 68,494 skills, 467 agents, 10,790 MCPs, and 207 harnesses.
 - [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
 - [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven) - The Harness of Harnesses: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration.
@@ -354,7 +357,7 @@
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [aeonfun/opendia](https://github.com/aeonfun/opendia) - Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox.
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [stevesolun/ctx](https://github.com/stevesolun/ctx) - Repo-aware recommendations for skills, agents, MCP servers, and model harnesses. Use your own inventory or the shipped 79,958-node graph with 68,494 skills, 467 agents, 10,790 MCPs, and 207 harnesses.
 - [komal-SkyNET/claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant) - Claude Code skill to supercharge and manage all Home Assistant workflows
 - [RekklesNA/ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) - Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.
@@ -485,6 +488,8 @@
 
 ## claude-code 
 
+- [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) - The skill layer for AI agents: npm for AI Agent Skills.
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [benmaster82/Kwipu](https://github.com/benmaster82/Kwipu) - Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any folder of Markdown files. Extracts entity-relation triples from wikilinks & YAM
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
@@ -542,6 +547,7 @@
 
 ## claude-skills 
 
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 
 ## cli 
@@ -565,7 +571,7 @@
 - [ManuelR-T/dockscope](https://github.com/ManuelR-T/dockscope) - Visual Docker dashboard with a 3D dependency graph, live metrics, logs, terminal, and container actions
 - [Soutar97/instagui](https://github.com/Soutar97/instagui) - Turn any CLI into a web GUI with one command
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [Gitlawb/zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
 - [kstevica/captain-claw](https://github.com/kstevica/captain-claw) - Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnostic and local-friendly.
 - [nikitadoudikov/claude-pulse](https://github.com/nikitadoudikov/claude-pulse) - Local, zero-dependency dashboard for Claude Code: live token usage and context, lost-session recovery, full-text search, and approve tool calls from your phone.
@@ -641,6 +647,7 @@
 
 ## developer-tools 
 
+- [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) - The skill layer for AI agents: npm for AI Agent Skills.
 - [josstei/maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, acce
 - [abduznik/Git-Alchemist](https://github.com/abduznik/Git-Alchemist) - Transform Git history: rewrite, clean, and optimize your repositories with ease.
 - [termaxa/termaxa](https://github.com/termaxa/termaxa) - A cooperative gate for the shell commands AI agents run. Previews, backups, policy, audit. Claude Code + Cursor. A windshield, not a sandbox.
@@ -1128,7 +1135,7 @@
 - [ashwwwin/furi](https://github.com/ashwwwin/furi) - CLI & API for MCP management
 - [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [stevesolun/ctx](https://github.com/stevesolun/ctx) - Repo-aware recommendations for skills, agents, MCP servers, and model harnesses. Use your own inventory or the shipped 79,958-node graph with 68,494 skills, 467 agents, 10,790 MCPs, and 207 harnesses.
 - [Gitlawb/zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
 - [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
@@ -1218,6 +1225,7 @@
 
 ## nextjs 
 
+- [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) - The skill layer for AI agents: npm for AI Agent Skills.
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) - Accelerate your development with a sleek, open-source admin dashboard and landing page built on Vite-React, Next.js, Tailwind CSS, and Shadcn/UI which is fully customizable and production-ready.
 - [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Self-hosted home display — part photo frame, part family board, part Home Assistant dashboard. Drag-&-drop, live sync, Immich wallpapers. No cloud.
 - [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas) - Live Docker & Kubernetes infrastructure visualization - containers, pods, volumes, and networks in one visual map. No VPN, no inbound ports.
@@ -1272,6 +1280,7 @@
 
 ## open-source 
 
+- [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) - The skill layer for AI agents: npm for AI Agent Skills.
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [trailhq/Graft](https://github.com/trailhq/Graft) - Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
@@ -1721,7 +1730,7 @@
 - [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [kstevica/captain-claw](https://github.com/kstevica/captain-claw) - Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnostic and local-friendly.
 - [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Self-hosted home display — part photo frame, part family board, part Home Assistant dashboard. Drag-&-drop, live sync, Immich wallpapers. No cloud.
 - [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas) - Live Docker & Kubernetes infrastructure visualization - containers, pods, volumes, and networks in one visual map. No VPN, no inbound ports.
@@ -1882,6 +1891,7 @@
 
 ## typescript 
 
+- [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) - The skill layer for AI agents: npm for AI Agent Skills.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL noteb
 - [moltlaunch/cashclaw](https://github.com/moltlaunch/cashclaw) - An autonomous agent that takes work, does work, gets paid, and gets better at it.
@@ -1891,7 +1901,7 @@
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
 - [prod-forge/backend](https://github.com/prod-forge/backend) - Prod Forge is an open-source reference that shows how to build and operate a production-ready system: AI-assisted development, quality gates, CI/CD, infrastructure, observability, migrations, and roll
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Self-hosted home display — part photo frame, part family board, part Home Assistant dashboard. Drag-&-drop, live sync, Immich wallpapers. No cloud.
