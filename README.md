@@ -24,6 +24,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [OCaml](#ocaml)
+- [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -50,6 +51,7 @@
 
 ## C 
 
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [LongQT-sea/OpenCore-ISO](https://github.com/LongQT-sea/OpenCore-ISO) - A properly configured OpenCore-ISO image for Proxmox VE and QEMU/KVM - Support Mac OS X 10.4 to macOS 26
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [win4r/codebase-memory-mcp-pro](https://github.com/win4r/codebase-memory-mcp-pro) - Community fork of DeusData/codebase-memory-mcp (MIT) — incremental-reindex CALLS-edge fix + 9 integrated upstream PRs. Pure-C code knowledge-graph MCP server.
@@ -171,7 +173,6 @@
 ## HTML 
 
 - [samosa-ai-com/server-services-manager](https://github.com/samosa-ai-com/server-services-manager) - A robust, web-based dashboard for managing server services and accessing terminals in real-time. Features a modern dark-themed UI, multi-tab terminal support, and live log monitoring via WebSockets.
-- [PyroghostX/ForgottenMovies](https://github.com/PyroghostX/ForgottenMovies) - App built to remind users about media they requested but never watched. Requires Plex, Tautulli and Seerr.
 
 ## Java 
 
@@ -184,6 +185,7 @@
 
 ## JavaScript 
 
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
 - [josstei/maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, acce
@@ -251,6 +253,10 @@
 
 - [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
 
+## Open Policy Agent 
+
+- [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
+
 ## Others 
 
 - [Piebald-AI/awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli) - A curated list of awesome tools, extensions, and resources for Gemini CLI.
@@ -298,6 +304,7 @@
 
 ## Python 
 
+- [KbWen/agentic-os](https://github.com/KbWen/agentic-os) - Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) where no step counts as done without evidence. Drop-in rules and guardrails for C
 - [tsaijamey/frago](https://github.com/tsaijamey/frago) - Multi-runtime automation infrastructure for AI agents. Native CDP browser control, metadata-driven Recipe system, and persistent Run context management.
 - [riponcm/projectmem](https://github.com/riponcm/projectmem) - Open-source coding agents memory. Records issues, attempts, fixes and decisions, then warns your agent before it repeats an approach that already failed. Native MCP server for Claude Code, Cursor, Ant
 - [benmaster82/Kwipu](https://github.com/benmaster82/Kwipu) - Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any folder of Markdown files. Extracts entity-relation triples from wikilinks & YAM
@@ -377,6 +384,7 @@
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [Dacid99/Eonvelope](https://github.com/Dacid99/Eonvelope) - Preserve your emails with this open-source self-hostable email archive! This repository is a read-only mirror, please go to the gitlab repo at https://gitlab.com/Dacid99/eonvelope to contribute code.
+- [PyroghostX/ForgottenMovies](https://github.com/PyroghostX/ForgottenMovies) - App built to remind users about media they requested but never watched. Requires Plex, Tautulli and Seerr.
 - [sbcrumb/chronarr](https://github.com/sbcrumb/chronarr) - 
 - [segin/arr-monitor](https://github.com/segin/arr-monitor) - Monitor progress on individual file operations on *arr (Sonarr, Radarr, et. al.) media mangers
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
@@ -432,6 +440,7 @@
 
 ## Rust 
 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
 - [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) - A tui tool for browsing and downloading torrents
