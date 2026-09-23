@@ -7,6 +7,7 @@
 
 - [ASL](#asl)
 - [Adblock Filter List](#adblock-filter-list)
+- [Awk](#awk)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -49,8 +50,13 @@
 
 - [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist) - Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
 
+## Awk 
+
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
+
 ## C 
 
+- [pbatard/Mosby](https://github.com/pbatard/Mosby) - Mosby – More Secure Secure Boot
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [LongQT-sea/OpenCore-ISO](https://github.com/LongQT-sea/OpenCore-ISO) - A properly configured OpenCore-ISO image for Proxmox VE and QEMU/KVM - Support Mac OS X 10.4 to macOS 26
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
@@ -103,6 +109,8 @@
 
 ## Go 
 
+- [291-Group/LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan) - LAN Orangutan is a lightweight network scanner with persistent device labeling, multi-network support, and Tailscale integration. Built by 291 Group.
+- [zzet/gortex](https://github.com/zzet/gortex) - High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expos
 - [HarshShah0203/homedex](https://github.com/HarshShah0203/homedex) - The missing inventory for your homelab — auto-discovered services, ports, routes, and expiry dates from Docker and your reverse proxy. Read-only, no agents, no telemetry.
 - [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Expose Docker containers as Tailscale Services using label-based configuration.
@@ -144,6 +152,7 @@
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [devnullvoid/pvetui](https://github.com/devnullvoid/pvetui) - Terminal UI for Proxmox VE
@@ -305,6 +314,10 @@
 
 ## Python 
 
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - Self-hosted certificate lifecycle management: issue, renew, discover, inventory and deploy TLS certificates across your infrastructure
+- [StepaniaH/port-light](https://github.com/StepaniaH/port-light) - A web dashboard that shows your server's port usage as a traffic-light grid. Built for homelabbers who run many Docker Compose stacks and keep forgetting which port is taken.
+- [Spillebulle/Tally](https://github.com/Spillebulle/Tally) - Self-hosted watch tracker with two-way Plex sync
+- [Spillebulle/HomeLab-Manger](https://github.com/Spillebulle/HomeLab-Manger) - HomeLab Hardware manager, speaks directly to IBMC, iDRAC, ILO, Switches etc. and lets you manage all of them in the same UI
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 - [KbWen/agentic-os](https://github.com/KbWen/agentic-os) - Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) where no step counts as done without evidence. Drop-in rules and guardrails for C
 - [tsaijamey/frago](https://github.com/tsaijamey/frago) - Multi-runtime automation infrastructure for AI agents. Native CDP browser control, metadata-driven Recipe system, and persistent Run context management.
@@ -537,6 +550,8 @@
 
 ## TypeScript 
 
+- [aicrafted/compote](https://github.com/aicrafted/compote) - Compose Templater - UI for create, validate and manage docker compose based infrastructures
+- [westpoint-io/mimik](https://github.com/westpoint-io/mimik) - 🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸
 - [augustosc-eu/TunarrTube](https://github.com/augustosc-eu/TunarrTube) - Self-hosted YouTube companion for building and maintaining Tunarr channels
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
@@ -619,7 +634,6 @@
 - [FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass) - The "Third Way" for Home Assistant Automations.
 - [trentferguson/homescreen-hero](https://github.com/trentferguson/homescreen-hero) - self-hosted Plex companion app with homescreen management, server insights, and useful tools, all in a sleek web dashboard
 - [MoldyTaint/Cinephage](https://github.com/MoldyTaint/Cinephage) - The AIO solution to your self hosted media gathering needs
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
