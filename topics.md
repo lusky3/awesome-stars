@@ -10,6 +10,7 @@
 - [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [algorithmic-trading](#algorithmic-trading)
 - [analytics](#analytics)
@@ -52,6 +53,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [dsh-plugin](#dsh-plugin)
 - [electron](#electron)
@@ -213,6 +215,10 @@
 
 ## agents 
 
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
+- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
+- [dallay/agentsync](https://github.com/dallay/agentsync) - A fast, portable CLI tool for synchronizing AI agent configurations across multiple AI coding assistants using symbolic links.
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [truefoundry/trueforge](https://github.com/truefoundry/trueforge) - The open-source agent harness - the runtime layer that turns an LLM into a working agent.
@@ -229,6 +235,11 @@
 
 ## ai 
 
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
+- [dallay/agentsync](https://github.com/dallay/agentsync) - A fast, portable CLI tool for synchronizing AI agent configurations across multiple AI coding assistants using symbolic links.
+- [spxrogers/agentsync](https://github.com/spxrogers/agentsync) - Sync AI coding-agent configs (Claude Code, OpenCode, Codex, and more) from one canonical, committable source.
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 - [tsaijamey/frago](https://github.com/tsaijamey/frago) - Multi-runtime automation infrastructure for AI agents. Native CDP browser control, metadata-driven Recipe system, and persistent Run context management.
@@ -277,8 +288,33 @@
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 
+## ai-agent 
+
+- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
+- [KbWen/agentic-os](https://github.com/KbWen/agentic-os) - Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) where no step counts as done without evidence. Drop-in rules and guardrails for C
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
+- [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL not
+- [moltlaunch/cashclaw](https://github.com/moltlaunch/cashclaw) - An autonomous agent that takes work, does work, gets paid, and gets better at it.
+- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
+- [Gitlawb/zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
+- [kstevica/captain-claw](https://github.com/kstevica/captain-claw) - Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnostic and local-friendly.
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
+- [RekklesNA/ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) - Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.
+- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
+- [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork) - Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration.
+- [Enderfga/claw-orchestrator](https://github.com/Enderfga/claw-orchestrator) - Run Claude Code, Codex, Antigravity, Cursor Agent and OpenCode as one runtime — persistent sessions, multi-agent councils, an OpenAI-compatible endpoint, an MCP server, and an ACP agent any editor can
+
 ## ai-agents 
 
+- [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - 🛰 Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
+- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [tsaijamey/frago](https://github.com/tsaijamey/frago) - Multi-runtime automation infrastructure for AI agents. Native CDP browser control, metadata-driven Recipe system, and persistent Run context management.
@@ -358,6 +394,7 @@
 
 ## artificial-intelligence 
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 
@@ -395,6 +432,7 @@
 
 ## awesome-list 
 
+- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
 - [Piebald-AI/awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli) - A curated list of awesome tools, extensions, and resources for Gemini CLI.
 - [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
@@ -404,12 +442,12 @@
 
 ## aws 
 
-- [floci-io/floci-ui](https://github.com/floci-io/floci-ui) - Any Cloud. Locally. - The local cloud console for Floci, an AWS-Console-style UI for your local multi-cloud runtime.
+- [floci-io/floci-ui](https://github.com/floci-io/floci-ui) - Any Cloud. Locally - Web Console for the local Cloud (AWS, Azure and GCP)
 - [prod-forge/backend](https://github.com/prod-forge/backend) - Prod Forge is an open-source reference that shows how to build and operate a production-ready system: AI-assisted development, quality gates, CI/CD, infrastructure, observability, migrations, and roll
 
 ## azure 
 
-- [floci-io/floci-ui](https://github.com/floci-io/floci-ui) - Any Cloud. Locally. - The local cloud console for Floci, an AWS-Console-style UI for your local multi-cloud runtime.
+- [floci-io/floci-ui](https://github.com/floci-io/floci-ui) - Any Cloud. Locally - Web Console for the local Cloud (AWS, Azure and GCP)
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 
@@ -449,6 +487,7 @@
 
 ## chatgpt 
 
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -467,6 +506,7 @@
 
 ## claude 
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [riponcm/projectmem](https://github.com/riponcm/projectmem) - Open-source coding agents memory. Records issues, attempts, fixes and decisions, then warns your agent before it repeats an approach that already failed. Native MCP server for Claude Code, Cursor, Ant
 - [josstei/maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, acce
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
@@ -502,6 +542,10 @@
 
 ## claude-code 
 
+- [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - 🛰 Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
+- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
+- [spxrogers/agentsync](https://github.com/spxrogers/agentsync) - Sync AI coding-agent configs (Claude Code, OpenCode, Codex, and more) from one canonical, committable source.
 - [zzet/gortex](https://github.com/zzet/gortex) - High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expos
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [KbWen/agentic-os](https://github.com/KbWen/agentic-os) - Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) where no step counts as done without evidence. Drop-in rules and guardrails for C
@@ -566,11 +610,14 @@
 
 ## claude-skills 
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 
 ## cli 
 
+- [dallay/agentsync](https://github.com/dallay/agentsync) - A fast, portable CLI tool for synchronizing AI agent configurations across multiple AI coding assistants using symbolic links.
+- [spxrogers/agentsync](https://github.com/spxrogers/agentsync) - Sync AI coding-agent configs (Claude Code, OpenCode, Codex, and more) from one canonical, committable source.
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
 - [291-Group/LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan) - LAN Orangutan is a lightweight network scanner with persistent device labeling, multi-network support, and Tailscale integration. Built by 291 Group.
 - [tsaijamey/frago](https://github.com/tsaijamey/frago) - Multi-runtime automation infrastructure for AI agents. Native CDP browser control, metadata-driven Recipe system, and persistent Run context management.
@@ -674,6 +721,8 @@
 
 ## developer-tools 
 
+- [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - 🛰 Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [zzet/gortex](https://github.com/zzet/gortex) - High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expos
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [KbWen/agentic-os](https://github.com/KbWen/agentic-os) - Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) where no step counts as done without evidence. Drop-in rules and guardrails for C
@@ -825,6 +874,10 @@
 - [aviadr1/claude-meta](https://github.com/aviadr1/claude-meta) - Self-improving AI: Transform CLAUDE.md into a learning system. One prompt makes Claude learn from every mistake. Meta-rules + reflection = continuous improvement.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 
+## dotfiles 
+
+- [spxrogers/agentsync](https://github.com/spxrogers/agentsync) - Sync AI coding-agent configs (Claude Code, OpenCode, Codex, and more) from one canonical, committable source.
+
 ## dotnet 
 
 - [Corsinvest/cv4pve-admin](https://github.com/Corsinvest/cv4pve-admin) - Web management platform for Proxmox VE clusters — like vCenter but for Proxmox
@@ -919,6 +972,8 @@
 
 ## golang 
 
+- [Belphemur/obsidian-headless](https://github.com/Belphemur/obsidian-headless) - Headless client for Obsidian Sync. Sync your vaults from the command line without the desktop app.
+- [spxrogers/agentsync](https://github.com/spxrogers/agentsync) - Sync AI coding-agent configs (Claude Code, OpenCode, Codex, and more) from one canonical, committable source.
 - [291-Group/LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan) - LAN Orangutan is a lightweight network scanner with persistent device labeling, multi-network support, and Tailscale integration. Built by 291 Group.
 - [HarshShah0203/homedex](https://github.com/HarshShah0203/homedex) - The missing inventory for your homelab — auto-discovered services, ports, routes, and expiry dates from Docker and your reverse proxy. Read-only, no agents, no telemetry.
 - [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
@@ -1098,6 +1153,9 @@
 
 ## llm 
 
+- [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - 🛰 Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
+- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [benmaster82/Kwipu](https://github.com/benmaster82/Kwipu) - Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any folder of Markdown files. Extracts entity-relation triples from wikilinks & YAM
@@ -1174,6 +1232,9 @@
 
 ## mcp 
 
+- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
+- [dallay/agentsync](https://github.com/dallay/agentsync) - A fast, portable CLI tool for synchronizing AI agent configurations across multiple AI coding assistants using symbolic links.
+- [spxrogers/agentsync](https://github.com/spxrogers/agentsync) - Sync AI coding-agent configs (Claude Code, OpenCode, Codex, and more) from one canonical, committable source.
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [benmaster82/Kwipu](https://github.com/benmaster82/Kwipu) - Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any folder of Markdown files. Extracts entity-relation triples from wikilinks & YAM
@@ -1334,6 +1395,7 @@
 
 ## obsidian 
 
+- [Belphemur/obsidian-headless](https://github.com/Belphemur/obsidian-headless) - Headless client for Obsidian Sync. Sync your vaults from the command line without the desktop app.
 - [benmaster82/Kwipu](https://github.com/benmaster82/Kwipu) - Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any folder of Markdown files. Extracts entity-relation triples from wikilinks & YAM
 - [stevesolun/ctx](https://github.com/stevesolun/ctx) - Repo-aware recommendations for skills, agents, MCP servers, and model harnesses. Use your own inventory or the shipped 79,958-node graph with 68,494 skills, 467 agents, 10,790 MCPs, and 207 harnesses.
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
@@ -1384,6 +1446,8 @@
 
 ## others 
 
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [pbatard/Mosby](https://github.com/pbatard/Mosby) - Mosby – More Secure Secure Boot
 - [Spillebulle/Tally](https://github.com/Spillebulle/Tally) - Self-hosted watch tracker with two-way Plex sync
 - [Spillebulle/HomeLab-Manger](https://github.com/Spillebulle/HomeLab-Manger) - HomeLab Hardware manager, speaks directly to IBMC, iDRAC, ILO, Switches etc. and lets you manage all of them in the same UI
@@ -1633,6 +1697,8 @@
 
 ## python 
 
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 - [tsaijamey/frago](https://github.com/tsaijamey/frago) - Multi-runtime automation infrastructure for AI agents. Native CDP browser control, metadata-driven Recipe system, and persistent Run context management.
 - [riponcm/projectmem](https://github.com/riponcm/projectmem) - Open-source coding agents memory. Records issues, attempts, fixes and decisions, then warns your agent before it repeats an approach that already failed. Native MCP server for Claude Code, Cursor, Ant
@@ -1687,6 +1753,8 @@
 
 ## rag 
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [benmaster82/Kwipu](https://github.com/benmaster82/Kwipu) - Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any folder of Markdown files. Extracts entity-relation triples from wikilinks & YAM
 - [NanoNets/docext](https://github.com/NanoNets/docext) - An on-premises, OCR-free unstructured data extraction, markdown conversion and benchmarking toolkit. (https://idp-leaderboard.org/)
@@ -1709,6 +1777,7 @@
 
 ## react 
 
+- [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - 🛰 Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone.
 - [westpoint-io/mimik](https://github.com/westpoint-io/mimik) - 🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
@@ -1902,6 +1971,8 @@
 
 ## sqlite 
 
+- [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - 🛰 Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [augustosc-eu/TunarrTube](https://github.com/augustosc-eu/TunarrTube) - Self-hosted YouTube companion for building and maintaining Tunarr channels
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL not
