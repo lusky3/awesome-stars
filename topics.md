@@ -952,6 +952,7 @@
 
 ## go 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 🏠 Tells you what changed on your server — only what's worth telling. Single Go binary, no database, nothing running on the machines it watches. MCP server built in.
 - [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
@@ -972,6 +973,7 @@
 
 ## golang 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [Belphemur/obsidian-headless](https://github.com/Belphemur/obsidian-headless) - Headless client for Obsidian Sync. Sync your vaults from the command line without the desktop app.
 - [spxrogers/agentsync](https://github.com/spxrogers/agentsync) - Sync AI coding-agent configs (Claude Code, OpenCode, Codex, and more) from one canonical, committable source.
 - [291-Group/LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan) - LAN Orangutan is a lightweight network scanner with persistent device labeling, multi-network support, and Tailscale integration. Built by 291 Group.
@@ -1446,6 +1448,7 @@
 
 ## others 
 
+- [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [pbatard/Mosby](https://github.com/pbatard/Mosby) - Mosby – More Secure Secure Boot
@@ -1660,6 +1663,7 @@
 
 ## privacy 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code , Opencode durable memory — entirely offline.
 - [AppControlLabs/appcontrol-mcp-go](https://github.com/AppControlLabs/appcontrol-mcp-go) - AppControl MCP is a local server connecting AI agents and IDEs like Claude, Cursor, and Windsurf to system history provided by the AppControl desktop app. Ask which apps used CPU, GPU, RAM, or disk, a
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client.
