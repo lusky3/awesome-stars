@@ -109,6 +109,8 @@
 
 ## Go 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
+- [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
 - [Belphemur/obsidian-headless](https://github.com/Belphemur/obsidian-headless) - Headless client for Obsidian Sync. Sync your vaults from the command line without the desktop app.
 - [spxrogers/agentsync](https://github.com/spxrogers/agentsync) - Sync AI coding-agent configs (Claude Code, OpenCode, Codex, and more) from one canonical, committable source.
 - [291-Group/LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan) - LAN Orangutan is a lightweight network scanner with persistent device labeling, multi-network support, and Tailscale integration. Built by 291 Group.
@@ -162,6 +164,7 @@
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [dannybouwers/trala](https://github.com/dannybouwers/trala) - A simple, modern, and dynamic dashboard for your Traefik services.
 - [lucasdillmann/nginx-ignition](https://github.com/lucasdillmann/nginx-ignition) - An user interface for the nginx web server, aimed at developers and enthusiasts that don't want to manage configuration files manually
+- [Receipt-Wrangler/receipt-wrangler](https://github.com/Receipt-Wrangler/receipt-wrangler) - Receipt Wrangler application
 - [sottey/dashuni](https://github.com/sottey/dashuni) - You keep one single source of truth about your servers, services, and bookmarks, and Dashuni generates the correct config for your favorite dashboard.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
@@ -654,7 +657,6 @@
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Agregarr is a Plex Collections manager that keeps your Home and Recommended fresh by frequently updating it with collections from various sources
-- [Receipt-Wrangler/receipt-wrangler](https://github.com/Receipt-Wrangler/receipt-wrangler) - Receipt Wrangler application
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [cartesiancs/vessel](https://github.com/cartesiancs/vessel) - 🦾 Runtime for Physical AI. Connect streams. Detect events. Control your world.
 - [varthe/Redirecterr](https://github.com/varthe/Redirecterr) - Filter and redirect media requests based on requester, keywords, age ratings, and more. Supports routing to multiple instances simultaneously.
