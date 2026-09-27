@@ -184,6 +184,7 @@
 
 ## agent 
 
+- [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) - Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
 - [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) - The skill layer for AI agents: npm for AI Agent Skills.
 - [agentic-in/inferoa](https://github.com/agentic-in/inferoa) - Inference-native Tokenmaxxing Agent Harness for Loop Engineering
@@ -203,6 +204,7 @@
 
 ## agent-skills 
 
+- [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) - Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) - The skill layer for AI agents: npm for AI Agent Skills.
 - [scaccogatto/okf-skills](https://github.com/scaccogatto/okf-skills) - The OKF toolkit for Claude Code — author, maintain, validate & visualize Open Knowledge Format bundles. Plugin, agent skills, and a GitHub Action.
@@ -215,6 +217,7 @@
 
 ## agents 
 
+- [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) - Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
@@ -310,6 +313,8 @@
 
 ## ai-agents 
 
+- [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) - Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.
+- [Agent-Analytics/awesome-multi-agent-orchestrators](https://github.com/Agent-Analytics/awesome-multi-agent-orchestrators) - Awesome-style curated list and directory for multi-agent orchestration.
 - [feigeCode/navop](https://github.com/feigeCode/navop) - A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.
 - [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - 🛰 Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
@@ -325,7 +330,7 @@
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [josstei/maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, acce
 - [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
-- [termaxa/termaxa](https://github.com/termaxa/termaxa) - A cooperative gate for the shell commands AI agents run. Previews, backups, policy, audit. Claude Code + Cursor. A windshield, not a sandbox.
+- [termaxa/termaxa](https://github.com/termaxa/termaxa) - The agent's prompt shows you the command; Termaxa shows you the consequence. Previews, backups, policy, an audit record. Claude Code, Codex, Cursor, Copilot. A windshield, not a sandbox.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [scaccogatto/okf-skills](https://github.com/scaccogatto/okf-skills) - The OKF toolkit for Claude Code — author, maintain, validate & visualize Open Knowledge Format bundles. Plugin, agent skills, and a GitHub Action.
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents
@@ -433,6 +438,7 @@
 
 ## awesome-list 
 
+- [Agent-Analytics/awesome-multi-agent-orchestrators](https://github.com/Agent-Analytics/awesome-multi-agent-orchestrators) - Awesome-style curated list and directory for multi-agent orchestration.
 - [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
 - [Piebald-AI/awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli) - A curated list of awesome tools, extensions, and resources for Gemini CLI.
@@ -558,7 +564,7 @@
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [josstei/maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, acce
-- [termaxa/termaxa](https://github.com/termaxa/termaxa) - A cooperative gate for the shell commands AI agents run. Previews, backups, policy, audit. Claude Code + Cursor. A windshield, not a sandbox.
+- [termaxa/termaxa](https://github.com/termaxa/termaxa) - The agent's prompt shows you the command; Termaxa shows you the consequence. Previews, backups, policy, an audit record. Claude Code, Codex, Cursor, Copilot. A windshield, not a sandbox.
 - [rsmdt/the-startup](https://github.com/rsmdt/the-startup) - The Agentic Startup - A collection of Claude Code commands, skills, and agents.
 - [aviadr1/claude-meta](https://github.com/aviadr1/claude-meta) - Self-improving AI: Transform CLAUDE.md into a learning system. One prompt makes Claude learn from every mistake. Meta-rules + reflection = continuous improvement.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
@@ -625,7 +631,7 @@
 - [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
 - [abduznik/Git-Alchemist](https://github.com/abduznik/Git-Alchemist) - Transform Git history: rewrite, clean, and optimize your repositories with ease.
 - [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) - A tui tool for browsing and downloading torrents
-- [termaxa/termaxa](https://github.com/termaxa/termaxa) - A cooperative gate for the shell commands AI agents run. Previews, backups, policy, audit. Claude Code + Cursor. A windshield, not a sandbox.
+- [termaxa/termaxa](https://github.com/termaxa/termaxa) - The agent's prompt shows you the command; Termaxa shows you the consequence. Previews, backups, policy, an audit record. Claude Code, Codex, Cursor, Copilot. A windshield, not a sandbox.
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 🏠 Tells you what changed on your server — only what's worth telling. Single Go binary, no database, nothing running on the machines it watches. MCP server built in.
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
@@ -734,7 +740,7 @@
 - [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) - The skill layer for AI agents: npm for AI Agent Skills.
 - [josstei/maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) - Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, acce
 - [abduznik/Git-Alchemist](https://github.com/abduznik/Git-Alchemist) - Transform Git history: rewrite, clean, and optimize your repositories with ease.
-- [termaxa/termaxa](https://github.com/termaxa/termaxa) - A cooperative gate for the shell commands AI agents run. Previews, backups, policy, audit. Claude Code + Cursor. A windshield, not a sandbox.
+- [termaxa/termaxa](https://github.com/termaxa/termaxa) - The agent's prompt shows you the command; Termaxa shows you the consequence. Previews, backups, policy, an audit record. Claude Code, Codex, Cursor, Copilot. A windshield, not a sandbox.
 - [aviadr1/claude-meta](https://github.com/aviadr1/claude-meta) - Self-improving AI: Transform CLAUDE.md into a learning system. One prompt makes Claude learn from every mistake. Meta-rules + reflection = continuous improvement.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [FlorianBruniaux/ccboard](https://github.com/FlorianBruniaux/ccboard) - Monitor Claude Code sessions, costs, config, hooks, agents & MCP servers from a single Rust binary — TUI (9 tabs) + Web interface with live process tracking, budget alerts, and 30-day forecasting
@@ -767,7 +773,7 @@
 
 ## devops 
 
-- [termaxa/termaxa](https://github.com/termaxa/termaxa) - A cooperative gate for the shell commands AI agents run. Previews, backups, policy, audit. Claude Code + Cursor. A windshield, not a sandbox.
+- [termaxa/termaxa](https://github.com/termaxa/termaxa) - The agent's prompt shows you the command; Termaxa shows you the consequence. Previews, backups, policy, an audit record. Claude Code, Codex, Cursor, Copilot. A windshield, not a sandbox.
 - [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 🏠 Tells you what changed on your server — only what's worth telling. Single Go binary, no database, nothing running on the machines it watches. MCP server built in.
 - [ManuelR-T/dockscope](https://github.com/ManuelR-T/dockscope) - Visual Docker dashboard with a 3D dependency graph, live metrics, logs, terminal, and container actions
 - [Intrect-io/OpenSwarm](https://github.com/Intrect-io/OpenSwarm) - OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
@@ -803,7 +809,7 @@
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - Self-hosted certificate lifecycle management: issue, renew, discover, inventory and deploy TLS certificates across your infrastructure
 - [aicrafted/compote](https://github.com/aicrafted/compote) - Compose Templater - UI for create, validate and manage docker compose based infrastructures
 - [StepaniaH/port-light](https://github.com/StepaniaH/port-light) - A web dashboard that shows your server's port usage as a traffic-light grid. Built for homelabbers who run many Docker Compose stacks and keep forgetting which port is taken.
-- [HarshShah0203/homedex](https://github.com/HarshShah0203/homedex) - The missing inventory for your homelab — auto-discovered services, ports, routes, and expiry dates from Docker and your reverse proxy. Read-only, no agents, no telemetry.
+- [HarshShah0203/homedex](https://github.com/HarshShah0203/homedex) - The missing inventory for your homelab: services, ports, routes and expiry dates discovered from Docker, Proxmox, Tailscale and your reverse proxy. Read-only, no agents, no telemetry. Live demo in the
 - [augustosc-eu/TunarrTube](https://github.com/augustosc-eu/TunarrTube) - Self-hosted YouTube companion for building and maintaining Tunarr channels
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Expose Docker containers as Tailscale Services using label-based configuration.
@@ -874,7 +880,7 @@
 ## documentation 
 
 - [westpoint-io/mimik](https://github.com/westpoint-io/mimik) - 🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸
-- [HarshShah0203/homedex](https://github.com/HarshShah0203/homedex) - The missing inventory for your homelab — auto-discovered services, ports, routes, and expiry dates from Docker and your reverse proxy. Read-only, no agents, no telemetry.
+- [HarshShah0203/homedex](https://github.com/HarshShah0203/homedex) - The missing inventory for your homelab: services, ports, routes and expiry dates discovered from Docker, Proxmox, Tailscale and your reverse proxy. Read-only, no agents, no telemetry. Live demo in the
 - [aviadr1/claude-meta](https://github.com/aviadr1/claude-meta) - Self-improving AI: Transform CLAUDE.md into a learning system. One prompt makes Claude learn from every mistake. Meta-rules + reflection = continuous improvement.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 
@@ -938,7 +944,7 @@
 ## git 
 
 - [abduznik/Git-Alchemist](https://github.com/abduznik/Git-Alchemist) - Transform Git history: rewrite, clean, and optimize your repositories with ease.
-- [termaxa/termaxa](https://github.com/termaxa/termaxa) - A cooperative gate for the shell commands AI agents run. Previews, backups, policy, audit. Claude Code + Cursor. A windshield, not a sandbox.
+- [termaxa/termaxa](https://github.com/termaxa/termaxa) - The agent's prompt shows you the command; Termaxa shows you the consequence. Previews, backups, policy, an audit record. Claude Code, Codex, Cursor, Copilot. A windshield, not a sandbox.
 - [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
 - [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Git Commit
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
@@ -981,7 +987,7 @@
 - [Belphemur/obsidian-headless](https://github.com/Belphemur/obsidian-headless) - Headless client for Obsidian Sync. Sync your vaults from the command line without the desktop app.
 - [spxrogers/agentsync](https://github.com/spxrogers/agentsync) - Sync AI coding-agent configs (Claude Code, OpenCode, Codex, and more) from one canonical, committable source.
 - [291-Group/LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan) - LAN Orangutan is a lightweight network scanner with persistent device labeling, multi-network support, and Tailscale integration. Built by 291 Group.
-- [HarshShah0203/homedex](https://github.com/HarshShah0203/homedex) - The missing inventory for your homelab — auto-discovered services, ports, routes, and expiry dates from Docker and your reverse proxy. Read-only, no agents, no telemetry.
+- [HarshShah0203/homedex](https://github.com/HarshShah0203/homedex) - The missing inventory for your homelab: services, ports, routes and expiry dates discovered from Docker, Proxmox, Tailscale and your reverse proxy. Read-only, no agents, no telemetry. Live demo in the
 - [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Expose Docker containers as Tailscale Services using label-based configuration.
 - [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 🏠 Tells you what changed on your server — only what's worth telling. Single Go binary, no database, nothing running on the machines it watches. MCP server built in.
@@ -1160,6 +1166,7 @@
 
 ## llm 
 
+- [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) - Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.
 - [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - 🛰 Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
@@ -1170,7 +1177,7 @@
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [abduznik/Git-Alchemist](https://github.com/abduznik/Git-Alchemist) - Transform Git history: rewrite, clean, and optimize your repositories with ease.
 - [agentic-in/inferoa](https://github.com/agentic-in/inferoa) - Inference-native Tokenmaxxing Agent Harness for Loop Engineering
-- [termaxa/termaxa](https://github.com/termaxa/termaxa) - A cooperative gate for the shell commands AI agents run. Previews, backups, policy, audit. Claude Code + Cursor. A windshield, not a sandbox.
+- [termaxa/termaxa](https://github.com/termaxa/termaxa) - The agent's prompt shows you the command; Termaxa shows you the consequence. Previews, backups, policy, an audit record. Claude Code, Codex, Cursor, Copilot. A windshield, not a sandbox.
 - [moltlaunch/cashclaw](https://github.com/moltlaunch/cashclaw) - An autonomous agent that takes work, does work, gets paid, and gets better at it.
 - [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) - An official Qdrant Model Context Protocol (MCP) server implementation
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
@@ -1240,6 +1247,7 @@
 
 ## mcp 
 
+- [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) - Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.
 - [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
 - [dallay/agentsync](https://github.com/dallay/agentsync) - A fast, portable CLI tool for synchronizing AI agent configurations across multiple AI coding assistants using symbolic links.
 - [spxrogers/agentsync](https://github.com/spxrogers/agentsync) - Sync AI coding-agent configs (Claude Code, OpenCode, Codex, and more) from one canonical, committable source.
@@ -1834,7 +1842,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) - A tui tool for browsing and downloading torrents
 - [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL not
-- [termaxa/termaxa](https://github.com/termaxa/termaxa) - A cooperative gate for the shell commands AI agents run. Previews, backups, policy, audit. Claude Code + Cursor. A windshield, not a sandbox.
+- [termaxa/termaxa](https://github.com/termaxa/termaxa) - The agent's prompt shows you the command; Termaxa shows you the consequence. Previews, backups, policy, an audit record. Claude Code, Codex, Cursor, Copilot. A windshield, not a sandbox.
 - [FlorianBruniaux/ccboard](https://github.com/FlorianBruniaux/ccboard) - Monitor Claude Code sessions, costs, config, hooks, agents & MCP servers from a single Rust binary — TUI (9 tabs) + Web interface with live process tracking, budget alerts, and 30-day forecasting
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents
@@ -1892,7 +1900,7 @@
 - [aicrafted/compote](https://github.com/aicrafted/compote) - Compose Templater - UI for create, validate and manage docker compose based infrastructures
 - [StepaniaH/port-light](https://github.com/StepaniaH/port-light) - A web dashboard that shows your server's port usage as a traffic-light grid. Built for homelabbers who run many Docker Compose stacks and keep forgetting which port is taken.
 - [291-Group/LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan) - LAN Orangutan is a lightweight network scanner with persistent device labeling, multi-network support, and Tailscale integration. Built by 291 Group.
-- [HarshShah0203/homedex](https://github.com/HarshShah0203/homedex) - The missing inventory for your homelab — auto-discovered services, ports, routes, and expiry dates from Docker and your reverse proxy. Read-only, no agents, no telemetry.
+- [HarshShah0203/homedex](https://github.com/HarshShah0203/homedex) - The missing inventory for your homelab: services, ports, routes and expiry dates discovered from Docker, Proxmox, Tailscale and your reverse proxy. Read-only, no agents, no telemetry. Live demo in the
 - [augustosc-eu/TunarrTube](https://github.com/augustosc-eu/TunarrTube) - Self-hosted YouTube companion for building and maintaining Tunarr channels
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -2001,7 +2009,7 @@
 
 ## svelte 
 
-- [HarshShah0203/homedex](https://github.com/HarshShah0203/homedex) - The missing inventory for your homelab — auto-discovered services, ports, routes, and expiry dates from Docker and your reverse proxy. Read-only, no agents, no telemetry.
+- [HarshShah0203/homedex](https://github.com/HarshShah0203/homedex) - The missing inventory for your homelab: services, ports, routes and expiry dates discovered from Docker, Proxmox, Tailscale and your reverse proxy. Read-only, no agents, no telemetry. Live demo in the
 - [samuelloranger/labby](https://github.com/samuelloranger/labby) - Self-hosted homelab dashboard: Widgets, live Docker stats, and real-time SSE updates. Built with Svelte + Bun.
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [ManuelR-T/dockscope](https://github.com/ManuelR-T/dockscope) - Visual Docker dashboard with a 3D dependency graph, live metrics, logs, terminal, and container actions
@@ -2048,7 +2056,7 @@
 
 ## terraform 
 
-- [termaxa/termaxa](https://github.com/termaxa/termaxa) - A cooperative gate for the shell commands AI agents run. Previews, backups, policy, audit. Claude Code + Cursor. A windshield, not a sandbox.
+- [termaxa/termaxa](https://github.com/termaxa/termaxa) - The agent's prompt shows you the command; Termaxa shows you the consequence. Previews, backups, policy, an audit record. Claude Code, Codex, Cursor, Copilot. A windshield, not a sandbox.
 
 ## testing 
 
