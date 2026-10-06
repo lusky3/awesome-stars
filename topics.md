@@ -1481,7 +1481,6 @@
 - [pbatard/Mosby](https://github.com/pbatard/Mosby) - Mosby – More Secure Secure Boot
 - [Spillebulle/Tally](https://github.com/Spillebulle/Tally) - Self-hosted watch tracker with two-way Plex sync
 - [Spillebulle/HomeLab-Manger](https://github.com/Spillebulle/HomeLab-Manger) - HomeLab Hardware manager, speaks directly to IBMC, iDRAC, ILO, Switches etc. and lets you manage all of them in the same UI
-- [portainer/portainer-run](https://github.com/portainer/portainer-run) - 
 - [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key
 - [wilwaldon/Claude-Code-Frontend-Design-Toolkit](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit) - Everything I've found that actually makes Claude Code output better-looking frontends. Skills, plugins, MCP servers, CLAUDE.md tricks
