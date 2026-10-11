@@ -453,12 +453,12 @@
 
 ## aws 
 
-- [floci-io/floci-ui](https://github.com/floci-io/floci-ui) - Any Cloud. Locally - Web Console for the local Cloud (AWS, Azure and GCP)
+- [floci-io/floci-ui](https://github.com/floci-io/floci-ui) - Any Cloud. Locally - Web Console for the local Cloud (AWS, Azure, GCP and OCI)
 - [prod-forge/backend](https://github.com/prod-forge/backend) - Prod Forge is an open-source reference that shows how to build and operate a production-ready system: AI-assisted development, quality gates, CI/CD, infrastructure, observability, migrations, and roll
 
 ## azure 
 
-- [floci-io/floci-ui](https://github.com/floci-io/floci-ui) - Any Cloud. Locally - Web Console for the local Cloud (AWS, Azure and GCP)
+- [floci-io/floci-ui](https://github.com/floci-io/floci-ui) - Any Cloud. Locally - Web Console for the local Cloud (AWS, Azure, GCP and OCI)
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 
@@ -1475,6 +1475,8 @@
 
 ## others 
 
+- [stonith404/umpteenth](https://github.com/stonith404/umpteenth) - Self-hosted agent jobs that learn. Describe the task once, run it in a disposable sandbox and watch it turn into a script.
+- [jeremehancock/Marquee](https://github.com/jeremehancock/Marquee) - Plex Media Poster Management
 - [drxen00/metamagic](https://github.com/drxen00/metamagic) - a better plex collections and metadata manager with a beautiful gui
 - [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
