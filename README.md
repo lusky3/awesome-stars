@@ -332,7 +332,6 @@
 - [StepaniaH/port-light](https://github.com/StepaniaH/port-light) - A web dashboard that shows your server's port usage as a traffic-light grid. Built for homelabbers who run many Docker Compose stacks and keep forgetting which port is taken.
 - [Spillebulle/Tally](https://github.com/Spillebulle/Tally) - Self-hosted watch tracker with two-way Plex sync
 - [Spillebulle/HomeLab-Manger](https://github.com/Spillebulle/HomeLab-Manger) - HomeLab Hardware manager, speaks directly to IBMC, iDRAC, ILO, Switches etc. and lets you manage all of them in the same UI
-- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 - [KbWen/agentic-os](https://github.com/KbWen/agentic-os) - Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) where no step counts as done without evidence. Drop-in rules and guardrails for C
 - [tsaijamey/frago](https://github.com/tsaijamey/frago) - Multi-runtime automation infrastructure for AI agents. Native CDP browser control, metadata-driven Recipe system, and persistent Run context management.
 - [riponcm/projectmem](https://github.com/riponcm/projectmem) - Open-source coding agents memory. Records issues, attempts, fixes and decisions, then warns your agent before it repeats an approach that already failed. Native MCP server for Claude Code, Cursor, Ant
@@ -576,6 +575,7 @@
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [aicrafted/compote](https://github.com/aicrafted/compote) - Compose Templater - UI for create, validate and manage docker compose based infrastructures
 - [westpoint-io/mimik](https://github.com/westpoint-io/mimik) - 🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸
+- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 - [augustosc-eu/TunarrTube](https://github.com/augustosc-eu/TunarrTube) - Self-hosted YouTube companion for building and maintaining Tunarr channels
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
@@ -606,7 +606,7 @@
 - [withastro/triagebot-action](https://github.com/withastro/triagebot-action) - A GitHub Action for issue triage
 - [Autoloops/greplica](https://github.com/Autoloops/greplica) - Persistent, searchable engineering memory for AI coding agents. Saves ~50% tokens and ~30% time while planning
 - [autobrr/netronome](https://github.com/autobrr/netronome) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
-- [trailhq/Graft](https://github.com/trailhq/Graft) - Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.
+- [trailhq/Trail-Code](https://github.com/trailhq/Trail-Code) - Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.
 - [ashwwwin/furi](https://github.com/ashwwwin/furi) - CLI & API for MCP management
 - [ManuelR-T/dockscope](https://github.com/ManuelR-T/dockscope) - Visual Docker dashboard with a 3D dependency graph, live metrics, logs, terminal, and container actions
 - [pingcap/autoflow](https://github.com/pingcap/autoflow) - pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai
