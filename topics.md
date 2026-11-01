@@ -225,6 +225,7 @@
 
 ## agents 
 
+- [agent0ai/tuxee](https://github.com/agent0ai/tuxee) - Tuxee - the most convenient Linux for servers and agents.
 - [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) - Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
@@ -1191,6 +1192,7 @@
 
 ## linux 
 
+- [agent0ai/tuxee](https://github.com/agent0ai/tuxee) - Tuxee - the most convenient Linux for servers and agents.
 - [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - 🛰 Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone.
 - [intelligentwolf/WolfScale](https://github.com/intelligentwolf/WolfScale) - Free tools for building robust, clustered server infrastructure — WolfStack, WolfScale, WolfDisk, WolfNet
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
