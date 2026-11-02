@@ -321,6 +321,7 @@
 
 ## ai-agents 
 
+- [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) - Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10 to 60 tokens per agent reply, starts in 2 ms, zero setup.
 - [Agent-Field/SWE-AF](https://github.com/Agent-Field/SWE-AF) - Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship.
 - [subgentic/coral](https://github.com/subgentic/coral) - Agentic IDE for Claude Code, Codex CLI, Antigravity CLI, and Pi.dev
 - [clay-good/OpenLore](https://github.com/clay-good/OpenLore) - Deterministic, local-first memory and guardrails for AI coding agents with no LLM in the hot path.
@@ -571,6 +572,7 @@
 
 ## claude-code 
 
+- [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) - Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10 to 60 tokens per agent reply, starts in 2 ms, zero setup.
 - [Agent-Field/SWE-AF](https://github.com/Agent-Field/SWE-AF) - Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship.
 - [subgentic/coral](https://github.com/subgentic/coral) - Agentic IDE for Claude Code, Codex CLI, Antigravity CLI, and Pi.dev
 - [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
@@ -653,6 +655,7 @@
 
 ## cli 
 
+- [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) - Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10 to 60 tokens per agent reply, starts in 2 ms, zero setup.
 - [dallay/agentsync](https://github.com/dallay/agentsync) - A fast, portable CLI tool for synchronizing AI agent configurations across multiple AI coding assistants using symbolic links.
 - [spxrogers/agentsync](https://github.com/spxrogers/agentsync) - Sync AI coding-agent configs (Claude Code, OpenCode, Codex, and more) from one canonical, committable source.
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
@@ -1295,6 +1298,7 @@
 
 ## mcp 
 
+- [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) - Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10 to 60 tokens per agent reply, starts in 2 ms, zero setup.
 - [swimmwatch/cloakbrowser-mcp](https://github.com/swimmwatch/cloakbrowser-mcp) - ⚡ CloakBrowser MCP server for AI agents: Playwright-powered browsing, clean tool forwarding, Docker support, and multi-session HTTP transport.
 - [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) - Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.
 - [hakopod/hakopod](https://github.com/hakopod/hakopod) - Deploy applications on your own servers (k3s), with a small Go control plane and a dashboard for everyday operations.
@@ -1750,6 +1754,7 @@
 
 ## productivity 
 
+- [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) - Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10 to 60 tokens per agent reply, starts in 2 ms, zero setup.
 - [Gimanh/taskview-community](https://github.com/Gimanh/taskview-community) - TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task man
 - [westpoint-io/mimik](https://github.com/westpoint-io/mimik) - 🎬 A browser extension and desktop app that turns your clicks into step-by-step guides with annotated screenshots 📖
 - [abduznik/Git-Alchemist](https://github.com/abduznik/Git-Alchemist) - Transform Git history: rewrite, clean, and optimize your repositories with ease.
@@ -1766,6 +1771,7 @@
 
 ## project-management 
 
+- [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) - Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10 to 60 tokens per agent reply, starts in 2 ms, zero setup.
 - [Gimanh/taskview-community](https://github.com/Gimanh/taskview-community) - TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task man
 - [Njengah/vibe-code-common-sense](https://github.com/Njengah/vibe-code-common-sense) - Project rails for responsible AI coding: treat agents as dumb by default, guide them with blueprints, small PRs, verification, and progress tracking.
 
@@ -1856,6 +1862,7 @@
 
 ## raspberry-pi 
 
+- [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) - Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10 to 60 tokens per agent reply, starts in 2 ms, zero setup.
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
 - [Higangssh/homebutler](https://github.com/Higangssh/homebutler) - 🏠 Tells you what changed on your server — only what's worth telling. Single Go binary, no database, nothing running on the machines it watches. MCP server built in.
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
@@ -1904,6 +1911,7 @@
 
 ## rust 
 
+- [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) - Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10 to 60 tokens per agent reply, starts in 2 ms, zero setup.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) - A tui tool for browsing and downloading torrents
@@ -1962,6 +1970,7 @@
 
 ## self-hosted 
 
+- [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) - Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10 to 60 tokens per agent reply, starts in 2 ms, zero setup.
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [Gimanh/taskview-community](https://github.com/Gimanh/taskview-community) - TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task man
 - [hakopod/hakopod](https://github.com/hakopod/hakopod) - Deploy applications on your own servers (k3s), with a small Go control plane and a dashboard for everyday operations.
@@ -2078,6 +2087,7 @@
 
 ## sqlite 
 
+- [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) - Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10 to 60 tokens per agent reply, starts in 2 ms, zero setup.
 - [feigeCode/navop](https://github.com/feigeCode/navop) - A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.
 - [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - 🛰 Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
