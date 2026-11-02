@@ -475,6 +475,7 @@
 
 ## Rust 
 
+- [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) - Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10 to 60 tokens per agent reply, starts in 2 ms, zero setup.
 - [perplexityai/SPACE](https://github.com/perplexityai/SPACE) - Sandboxed Platform for Agentic Code Execution: pluggable-runtime sandboxes for running agent and user code in isolation.
 - [feigeCode/navop](https://github.com/feigeCode/navop) - A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.
 - [dallay/agentsync](https://github.com/dallay/agentsync) - A fast, portable CLI tool for synchronizing AI agent configurations across multiple AI coding assistants using symbolic links.
