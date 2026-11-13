@@ -150,7 +150,6 @@
 - [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 - [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) - 
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
-- [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
@@ -230,7 +229,6 @@
 - [Sir-Scuzza/gluetun-webui](https://github.com/Sir-Scuzza/gluetun-webui) - 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [MickyGX/launcharr](https://github.com/MickyGX/launcharr) - 
-- [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [fileflows/community-repository](https://github.com/fileflows/community-repository) - Community Repository for FileFlows Scripts/Flows etc
 - [sjlu/popular-movies](https://github.com/sjlu/popular-movies) - Tries to create a list of popular movies based on a series of heuristics
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
@@ -330,11 +328,13 @@
 
 ## Python 
 
+- [tuya-cloudcutter/tuya-cloudcutter](https://github.com/tuya-cloudcutter/tuya-cloudcutter) - A tool that disconnects Tuya IoT devices from the cloud, allowing them to run completely locally.
+- [winterbird-code/adbb](https://github.com/winterbird-code/adbb) - Object Oriented UDP Client Library for AniDB
 - [google-research/harness2](https://github.com/google-research/harness2) - 
 - [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) - Stealth browser automation for AI agents over MCP and the Chrome DevTools Protocol: navigation, network hooks, DOM extraction, and pixel-accurate UI cloning.
 - [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) - The Open-Source AI Agent OS inspired by OpenAI Dots, Meta Muse, OpenClaw, Hermes & Mem0. Autonomous 3-tier headhunting, Receipt & Verifier loops, scoped memory, and BYOM for Claude Code, Codex & Curso
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 187 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - Self-hosted control plane for TLS certificates, ready for 47-day certificates: issue, renew, discover, inventory and deploy them, and serve ACME for internal names and IPv4 addresses
@@ -362,7 +362,6 @@
 - [ellite/scrob](https://github.com/ellite/scrob) - Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) - README design skill for Claude Code & Codex. 帮你把 GitHub README 做得好看又好懂。
-- [ythx-101/ask-search](https://github.com/ythx-101/ask-search) - Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [HKUDS/AutoSwarm](https://github.com/HKUDS/AutoSwarm) - AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
@@ -474,6 +473,7 @@
 
 ## Rust 
 
+- [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) - Fast, cross-platform, real-time token usage tracker and cost monitor for Claude Code / Codex CLI / Antigravity CLI / Qwen Code / Cline / Zoo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent / P
 - [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) - Self-hosted, sharable kanban for humans and agents. One 4.7 MB binary, 5 MB of RAM, 10 to 60 tokens per agent reply, starts in 3 ms, zero setup.
 - [perplexityai/SPACE](https://github.com/perplexityai/SPACE) - Sandboxed Platform for Agentic Code Execution: pluggable-runtime sandboxes for running agent and user code in isolation.
 - [feigeCode/navop](https://github.com/feigeCode/navop) - Three native apps on one kernel: Navop (databases, SSH/SFTP, terminal, remote desktop, AI), Navop Shell (SSH/SFTP, terminal, port forwarding, RDP/VNC) and Navop Data (SQL, Redis, MongoDB). Rust + GPUI
@@ -502,7 +502,7 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - Open-source AI pair programming for desktop: a Mentor + Executor agent cross-check each other's code to catch AI hallucinations. Works with Claude Code, Codex, Gemini & opencode. macOS / Windows / Lin
+- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - Open-source AI pair programming desktop app: a read-only Mentor and an Executor agent cross-check each other's code to catch AI mistakes before they land. Bring any model — Claude, GPT, Gemini, Kimi, 
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
 - [Arcadia-Solutions/Dasharr](https://github.com/Arcadia-Solutions/Dasharr) - Dashboard of your indexers' usage
@@ -575,6 +575,7 @@
 
 ## TypeScript 
 
+- [almogdepaz/wolfpack](https://github.com/almogdepaz/wolfpack) - Self-hosted browser terminal manager for AI coding agents. Control Claude Code, Codex, Gemini, and shell sessions from your phone or browser over Tailscale.
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into a structured API. Extract, automate, search and monitor the web.
 - [openkursar/hello-halo](https://github.com/openkursar/hello-halo) - 7×24 Desktop AI Agent for Everyone. Visual AI assistant with remote access, file management, and built-in AI browser.
@@ -602,7 +603,7 @@
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [agentic-in/inferoa](https://github.com/agentic-in/inferoa) - Inference-native Tokenmaxxing Agent Harness for Loop Engineering
 - [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 29 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
-- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted 
 - [moltlaunch/cashclaw](https://github.com/moltlaunch/cashclaw) - An autonomous agent that takes work, does work, gets paid, and gets better at it.
 - [rsmdt/the-startup](https://github.com/rsmdt/the-startup) - The Agentic Startup - A collection of Claude Code commands, skills, and agents.
 - [MeisnerDan/mission-control](https://github.com/MeisnerDan/mission-control) - Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents.
@@ -628,7 +629,7 @@
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [Soutar97/instagui](https://github.com/Soutar97/instagui) - Turn any CLI into a web GUI with one command
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1700+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [jl94x4/StreamPilot](https://github.com/jl94x4/StreamPilot) - Self-hosted management and analytics for Plex, Jellyfin, and Emby.
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
@@ -659,9 +660,11 @@
 - [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
+- [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.
 - [vinkius-labs/mcpfusion](https://github.com/vinkius-labs/mcpfusion) - MCP Fusion - The TypeScript framework for secure MCP servers.
 - [SuFxGIT/scoutarr](https://github.com/SuFxGIT/scoutarr) - Automate media upgrades in Radarr, Sonarr, Lidarr, and Readarr with smart filtering, scheduling, and a modern web UI.
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
+- [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [samanhappy/mcphub](https://github.com/samanhappy/mcphub) - Self-hosted MCP gateway and control plane for connecting, controlling, and operating MCP servers.
@@ -678,7 +681,7 @@
 - [kikootwo/LibraryDownloadarr](https://github.com/kikootwo/LibraryDownloadarr) - 
 - [HydroshieldMKII/Guardian](https://github.com/HydroshieldMKII/Guardian) - Access-control layer for Plex Media Server. Approve or block devices, enforce per-user schedules and IP rules, cap concurrent streams, and stop sessions that break the rules.
 - [MCPJam/inspector](https://github.com/MCPJam/inspector) - Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.
-- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - MCP server that lets Claude, ChatGPT, Cursor and other AI assistants operate n8n: debug, edit, validate, test and build workflows on any n8n instance
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Agregarr is a Plex Collections manager that keeps your Home and Recommended fresh by frequently updating it with collections from various sources
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
