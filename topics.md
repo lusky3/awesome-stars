@@ -218,6 +218,7 @@
 - [scaccogatto/okf-skills](https://github.com/scaccogatto/okf-skills) - The OKF toolkit for Claude Code — author, maintain, validate & visualize Open Knowledge Format bundles. Plugin, agent skills, and a GitHub Action.
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat
 - [oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) - README design skill for Claude Code & Codex. 帮你把 GitHub README 做得好看又好懂。
+- [ythx-101/ask-search](https://github.com/ythx-101/ask-search) - Self-hosted web search for AI agents: a CLI + MCP server that wraps SearxNG to aggregate Google, Bing, DuckDuckGo, Brave and more — no API key, no paid search API. Works with Claude Code, OpenClaw, An
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -354,6 +355,7 @@
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
 - [ldegio/agtop](https://github.com/ldegio/agtop) - top-style TUI for monitoring AI coding agent sessions
 - [trailhq/Trail-Code](https://github.com/trailhq/Trail-Code) - One shared memory for every coding agent on your team. Claude Code, Cursor and Codex get a map of your code and your team's past decisions, so they pick up where you left off.
+- [ythx-101/ask-search](https://github.com/ythx-101/ask-search) - Self-hosted web search for AI agents: a CLI + MCP server that wraps SearxNG to aggregate Google, Bing, DuckDuckGo, Brave and more — no API key, no paid search API. Works with Claude Code, OpenClaw, An
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1700+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [stevesolun/ctx](https://github.com/stevesolun/ctx) - CTX Fit finds the cheapest AI coding setup that reliably works on your repository, then applies the winner as a reviewable change.
@@ -621,6 +623,7 @@
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat
 - [trailhq/Trail-Code](https://github.com/trailhq/Trail-Code) - One shared memory for every coding agent on your team. Claude Code, Cursor and Codex get a map of your code and your team's past decisions, so they pick up where you left off.
 - [oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) - README design skill for Claude Code & Codex. 帮你把 GitHub README 做得好看又好懂。
+- [ythx-101/ask-search](https://github.com/ythx-101/ask-search) - Self-hosted web search for AI agents: a CLI + MCP server that wraps SearxNG to aggregate Google, Bing, DuckDuckGo, Brave and more — no API key, no paid search API. Works with Claude Code, OpenClaw, An
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [stevesolun/ctx](https://github.com/stevesolun/ctx) - CTX Fit finds the cheapest AI coding setup that reliably works on your repository, then applies the winner as a reviewable change.
 - [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - agentic development environment for claude code, codex, cursor, opencode, grok and more.
@@ -1364,6 +1367,7 @@
 - [trailhq/Trail-Code](https://github.com/trailhq/Trail-Code) - One shared memory for every coding agent on your team. Claude Code, Cursor and Codex get a map of your code and your team's past decisions, so they pick up where you left off.
 - [ashwwwin/furi](https://github.com/ashwwwin/furi) - CLI & API for MCP management
 - [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.
+- [ythx-101/ask-search](https://github.com/ythx-101/ask-search) - Self-hosted web search for AI agents: a CLI + MCP server that wraps SearxNG to aggregate Google, Bing, DuckDuckGo, Brave and more — no API key, no paid search API. Works with Claude Code, OpenClaw, An
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1700+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [stevesolun/ctx](https://github.com/stevesolun/ctx) - CTX Fit finds the cheapest AI coding setup that reliably works on your repository, then applies the winner as a reviewable change.
@@ -1416,6 +1420,7 @@
 - [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) - An official Qdrant Model Context Protocol (MCP) server implementation
 - [trailhq/Trail-Code](https://github.com/trailhq/Trail-Code) - One shared memory for every coding agent on your team. Claude Code, Cursor and Codex get a map of your code and your team's past decisions, so they pick up where you left off.
 - [ashwwwin/furi](https://github.com/ashwwwin/furi) - CLI & API for MCP management
+- [ythx-101/ask-search](https://github.com/ythx-101/ask-search) - Self-hosted web search for AI agents: a CLI + MCP server that wraps SearxNG to aggregate Google, Bing, DuckDuckGo, Brave and more — no API key, no paid search API. Works with Claude Code, OpenClaw, An
 - [ruvnet/metaharness](https://github.com/ruvnet/metaharness) - 🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex
 - [cloudflare/mcp](https://github.com/cloudflare/mcp) - MCP server for the Cloudflare API
 - [lucasastorian/llmwiki](https://github.com/lucasastorian/llmwiki) - Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !
@@ -1809,6 +1814,7 @@
 ## privacy 
 
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
+- [ythx-101/ask-search](https://github.com/ythx-101/ask-search) - Self-hosted web search for AI agents: a CLI + MCP server that wraps SearxNG to aggregate Google, Bing, DuckDuckGo, Brave and more — no API key, no paid search API. Works with Claude Code, OpenClaw, An
 - [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code , Opencode durable memory — entirely offline.
 - [AppControlLabs/appcontrol-mcp-go](https://github.com/AppControlLabs/appcontrol-mcp-go) - AppControl MCP is a local server connecting AI agents and IDEs like Claude, Cursor, and Windsurf to system history provided by the AppControl desktop app. Ask which apps used CPU, GPU, RAM, or disk, a
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client.
@@ -1863,6 +1869,7 @@
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [ellite/scrob](https://github.com/ellite/scrob) - Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
+- [ythx-101/ask-search](https://github.com/ythx-101/ask-search) - Self-hosted web search for AI agents: a CLI + MCP server that wraps SearxNG to aggregate Google, Bing, DuckDuckGo, Brave and more — no API key, no paid search API. Works with Claude Code, OpenClaw, An
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [kstevica/captain-claw](https://github.com/kstevica/captain-claw) - Command a fleet of AI agents, on every deck, every desk, every wrist. Self-hosted multi-agent platform with memory, a coding pipeline, Flows, a team kiosk and voice devices. Any LLM, or 100% local wit
 - [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code , Opencode durable memory — entirely offline.
@@ -2055,6 +2062,7 @@
 - [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
+- [ythx-101/ask-search](https://github.com/ythx-101/ask-search) - Self-hosted web search for AI agents: a CLI + MCP server that wraps SearxNG to aggregate Google, Bing, DuckDuckGo, Brave and more — no API key, no paid search API. Works with Claude Code, OpenClaw, An
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1700+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [kstevica/captain-claw](https://github.com/kstevica/captain-claw) - Command a fleet of AI agents, on every deck, every desk, every wrist. Self-hosted multi-agent platform with memory, a coding pipeline, Flows, a team kiosk and voice devices. Any LLM, or 100% local wit
 - [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Self-hosted home display — part photo frame, part family board, part Home Assistant dashboard. Drag-&-drop, live sync, Immich wallpapers. No cloud.
