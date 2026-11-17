@@ -13,6 +13,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Dart](#dart)
+- [Elixir](#elixir)
 - [Fluent](#fluent)
 - [Gherkin](#gherkin)
 - [Go](#go)
@@ -98,6 +99,10 @@
 
 - [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform media server client built with Flutter
 
+## Elixir 
+
+- [getmydia/mydia](https://github.com/getmydia/mydia) - Your personal media companion, built with Phoenix LiveView
+
 ## Fluent 
 
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -108,8 +113,9 @@
 
 ## Go 
 
+- [bscott/subtrackr](https://github.com/bscott/subtrackr) - Self-hosted Subscription Tracker
 - [Agent-Field/SWE-AF](https://github.com/Agent-Field/SWE-AF) - Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship.
-- [subgentic/coral](https://github.com/subgentic/coral) - Agentic IDE for Claude Code, Codex CLI, Antigravity CLI, and Pi.dev
+- [subgentic/coral](https://github.com/subgentic/coral) - Coral: The Inbox for Your Coding Agents. You create goals, the Orchestrator creates the tasks, a team of agents picks up the work.
 - [stonith404/umpteenth](https://github.com/stonith404/umpteenth) - Self-hosted agent jobs that learn. Describe the task once, run it in a disposable sandbox and watch it turn into a script.
 - [hakopod/hakopod](https://github.com/hakopod/hakopod) - Deploy applications on your own servers (k3s), with a small Go control plane and a dashboard for everyday operations.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -346,7 +352,6 @@
 - [riponcm/projectmem](https://github.com/riponcm/projectmem) - Open-source coding agents memory. Records issues, attempts, fixes and decisions, then warns your agent before it repeats an approach that already failed. Native MCP server for Claude Code, Cursor, Ant
 - [benmaster82/Kwipu](https://github.com/benmaster82/Kwipu) - Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any folder of Markdown files. Extracts entity-relation triples from wikilinks & YAM
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
-- [abduznik/Git-Alchemist](https://github.com/abduznik/Git-Alchemist) - Transform Git history: rewrite, clean, and optimize your repositories with ease.
 - [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) - An official Qdrant Model Context Protocol (MCP) server implementation
 - [NanoNets/docext](https://github.com/NanoNets/docext) - An on-premises, OCR-free unstructured data extraction, markdown conversion and benchmarking toolkit. (https://idp-leaderboard.org/)
 - [harshkedia177/axon](https://github.com/harshkedia177/axon) - Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.
@@ -477,7 +482,7 @@
 - [Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) - Fast, cross-platform, real-time token usage tracker and cost monitor for Claude Code / Codex CLI / Antigravity CLI / Qwen Code / Cline / Zoo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent / P
 - [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) - Self-hosted, sharable kanban for humans and agents. One 4.7 MB binary, 5 MB of RAM, 10 to 60 tokens per agent reply, starts in 3 ms, zero setup.
 - [perplexityai/SPACE](https://github.com/perplexityai/SPACE) - Sandboxed Platform for Agentic Code Execution: pluggable-runtime sandboxes for running agent and user code in isolation.
-- [feigeCode/navop](https://github.com/feigeCode/navop) - Three native apps on one kernel: Navop (databases, SSH/SFTP, terminal, remote desktop, AI), Navop Shell (SSH/SFTP, terminal, port forwarding, RDP/VNC) and Navop Data (SQL, Redis, MongoDB). Rust + GPUI
+- [feigeCode/navop](https://github.com/feigeCode/navop) - Native desktop workspace for databases, servers, and AI — built with Rust and GPUI. No WebView, no Electron. MySQL, PostgreSQL, Redis, MongoDB, SSH/SFTP, terminals, remote desktop, and AI agents in on
 - [dallay/agentsync](https://github.com/dallay/agentsync) - A fast, portable CLI tool for synchronizing AI agent configurations across multiple AI coding assistants using symbolic links.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
@@ -611,7 +616,7 @@
 - [truefoundry/trueforge](https://github.com/truefoundry/trueforge) - The open-source agent harness - the runtime layer that turns an LLM into a working agent.
 - [janpuc/browserr](https://github.com/janpuc/browserr) - A self-hosted, Netflix-style discovery front-end for your media stack.
 - [samuelloranger/labby](https://github.com/samuelloranger/labby) - Self-hosted homelab dashboard: Widgets, live Docker stats, and real-time SSE updates. Built with Svelte + Bun.
-- [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) - Free, open-source shadcn/ui dashboard and landing page template for React, with Vite and Next.js versions, Base UI and Tailwind v4.
+- [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) - Free shadcn admin dashboard template for Next.js: shadcn/ui on Base UI, Tailwind CSS v4, the ShadcnStore Dashboard Kit. MIT.
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
